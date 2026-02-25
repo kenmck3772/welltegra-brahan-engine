@@ -1,0 +1,49 @@
+{
+  "analysis_date": "2026-02-25T03:28:40.749725",
+  "focus": "Green Cement, CCL, GR, USIT",
+  "summary": {
+    "ccl_files": 40,
+    "gr_files": 81,
+    "usit_files": 5,
+    "cement_files": 13
+  },
+  "wells_with_gr": {
+    "49/29b- 11": 3
+  },
+  "wells_with_ccl": {
+    "21/10-F2": 28,
+    "9/13a-B56Z": 11,
+    "9/13a-B56z": 1
+  },
+  "usit_files": [
+    {
+      "file": "9_13a-B56Z_dwl_244723854.las",
+      "curve": "USIT"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723865.las",
+      "curve": "USIT"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723857.las",
+      "curve": "USIT"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723848.las",
+      "curve": "USIT"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723851.las",
+      "curve": "USIT"
+    }
+  ],
+  "green_cement_notes": {
+    "method": "Time-lapse GR comparison",
+    "indicators": [
+      "Fresh cement: Higher radioactive tracer signature",
+      "Cured cement: Stabilized GR baseline",
+      "Green cement: Intermediate GR signature"
+    ],
+    "cross_reference": "USIT cement map + GR signature"
+  }
+}

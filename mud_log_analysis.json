@@ -1,0 +1,1028 @@
+[
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_14022024.las",
+    "well": "48/29-A1",
+    "date": "14/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "16_28-1_MUDLOG.las",
+    "well": "M",
+    "date": "01/07/1974",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+    "well": "",
+    "date": "07-NOV-2014",
+    "parameters": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_03022024.las",
+    "well": "48/29-A1",
+    "date": "03/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991754.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723854.las",
+    "well": "",
+    "date": "08-Dec-2015",
+    "parameters": [
+      "STANDPIPE",
+      "GAS",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_01022024.las",
+    "well": "48/29-A1",
+    "date": "01/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615354.las",
+    "well": "",
+    "date": "02/11/2014-09",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_17022024.las",
+    "well": "48/29-A1",
+    "date": "17/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_OTHER_7919715.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_04022024.las",
+    "well": "48/29-A1",
+    "date": "04/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_11022024.las",
+    "well": "48/29-A1",
+    "date": "11/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_12022024.las",
+    "well": "48/29-A1",
+    "date": "12/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_06022024.las",
+    "well": "48/29-A1",
+    "date": "06/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_24022024.las",
+    "well": "48/29-A1",
+    "date": "24/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "16_28-1_MUDLOG (3).las",
+    "well": "M",
+    "date": "01/07/1974",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_16022024.las",
+    "well": "48/29-A1",
+    "date": "16/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z__JWL_FILE_265849470.las",
+    "well": "UKOF-009/13-B56-1",
+    "date": "2018-07-18 15",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991753.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_10022024.las",
+    "well": "48/29-A1",
+    "date": "10/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+    "well": "49/29b- 11",
+    "date": "21/12/07",
+    "parameters": [
+      "ROP",
+      "MUD_WEIGHT",
+      "C1",
+      "C2"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+    "well": "",
+    "date": "07-NOV-2014",
+    "parameters": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615399.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+    "well": "02^20'14",
+    "date": "09/09/08",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "C1",
+      "C2"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723865.las",
+    "well": "",
+    "date": "08-Dec-2015",
+    "parameters": [
+      "STANDPIPE",
+      "GAS",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MUD_302615141.las",
+    "well": "1",
+    "date": "04/06/2015",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "FLOW",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_07022024.las",
+    "well": "48/29-A1",
+    "date": "07/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48-29_A1_DWL_MUD_Time_31012024.las",
+    "well": "48/29-A1",
+    "date": "31/01/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615372.las",
+    "well": "",
+    "date": "26/10/2014-13",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+    "well": "ALL",
+    "date": "1988/03/19",
+    "parameters": [
+      "MUD_WEIGHT",
+      "GAS",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723857.las",
+    "well": "",
+    "date": "08-Dec-2015",
+    "parameters": [
+      "STANDPIPE",
+      "GAS",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_18022024.las",
+    "well": "48/29-A1",
+    "date": "18/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_23022024.las",
+    "well": "48/29-A1",
+    "date": "23/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_08022024.las",
+    "well": "48/29-A1",
+    "date": "08/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_21022024.las",
+    "well": "48/29-A1",
+    "date": "21/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_15022024.las",
+    "well": "48/29-A1",
+    "date": "15/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615405.las",
+    "well": "",
+    "date": "26/09/2014-22",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_25022024.las",
+    "well": "48/29-A1",
+    "date": "25/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_09022024.las",
+    "well": "48/29-A1",
+    "date": "09/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991756.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+    "well": "9/13a-B56Z",
+    "date": "",
+    "parameters": [
+      "MUD_WEIGHT",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991750.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS",
+      "C1"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_02022024.las",
+    "well": "48/29-A1",
+    "date": "02/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991752.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS",
+      "C1"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "GBR_9_13-B56Z_MUDLOG.las",
+    "well": "UKOF-009/13-B56-1",
+    "date": "01/24/2023",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723848.las",
+    "well": "",
+    "date": "08-Dec-2015",
+    "parameters": [
+      "STANDPIPE",
+      "GAS",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_22022024.las",
+    "well": "48/29-A1",
+    "date": "22/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+    "well": "49/29b- 11",
+    "date": "23/12/07",
+    "parameters": [
+      "ROP",
+      "MUD_WEIGHT",
+      "C1",
+      "C2"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_20022024.las",
+    "well": "48/29-A1",
+    "date": "20/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+    "well": "02^40'57",
+    "date": "23/12/07",
+    "parameters": [
+      "ROP",
+      "MUD_WEIGHT",
+      "C1",
+      "C2"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615375.las",
+    "well": "",
+    "date": "04/10/2014-11",
+    "parameters": [
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_13022024.las",
+    "well": "48/29-A1",
+    "date": "13/02/2024",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "MUD_WEIGHT",
+      "FLOW",
+      "TORQUE",
+      "STANDPIPE",
+      "GAS"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723851.las",
+    "well": "",
+    "date": "08-Dec-2015",
+    "parameters": [
+      "STANDPIPE",
+      "GAS",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991755.las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615411.las",
+    "well": "",
+    "date": "26/09/2014-08",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615363.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+    "well": "",
+    "date": "07-NOV-2014",
+    "parameters": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615393.las",
+    "well": "",
+    "date": "01/10/2014-08",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615369.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+    "well": "",
+    "date": "07-NOV-2014",
+    "parameters": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615378.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2__JWL_FILE_265865183.las",
+    "well": "GBR_21/10-F02",
+    "date": "2018-07-23 08",
+    "parameters": [
+      "ROP",
+      "WOB",
+      "RPM",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615357.las",
+    "well": "",
+    "date": "26/10/2014-12",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615348.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615384.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615417.las",
+    "well": "",
+    "date": "DD/MM/YYYY-HH",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615387.las",
+    "well": "",
+    "date": "26/10/2014-13",
+    "parameters": [
+      "ROP",
+      "RPM",
+      "FLOW",
+      "STANDPIPE"
+    ],
+    "is_mud_log": true
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751 (3).las",
+    "well": "0 file",
+    "date": "20080808160500",
+    "parameters": [
+      "ROP",
+      "GAS",
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "is_mud_log": true
+  }
+]

@@ -1,0 +1,45 @@
+# Data files
+brahan_engine_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+.eggs
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# System
+.local/
+.cache/
+.config/
+.ssh/
+.profile
+.bashrc
+.bash_history
+.sudo_as_admin_successful
+.Xauthority
+.viminfo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.zip
+*.tar
+*.gz
+main

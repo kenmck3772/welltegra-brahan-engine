@@ -1,0 +1,198 @@
+{
+  "21/10-F2": {
+    "score": 100,
+    "criteria": {
+      "CORROSION_STATUS": 140.0,
+      "DATA_COMPLETENESS": 420.0,
+      "PRESSURE_INTEGRITY": 120.0,
+      "MONITORING": 60.0
+    }
+  },
+  "21/10-B02": {
+    "score": 83.33333333333333,
+    "criteria": {
+      "DATA_COMPLETENESS": 75.0,
+      "BARRIER_STATUS": 8.333333333333334
+    }
+  },
+  "48/29-A1": {
+    "score": 100,
+    "criteria": {
+      "PRESSURE_INTEGRITY": 240.0,
+      "DATA_COMPLETENESS": 255.0,
+      "MONITORING": 120.0
+    }
+  },
+  "21/25-G1 (GUAP1)": {
+    "score": 40.0,
+    "criteria": {
+      "PRESSURE_INTEGRITY": 10.0,
+      "DATA_COMPLETENESS": 30.0
+    }
+  },
+  "9/13a-B56Z": {
+    "score": 100,
+    "criteria": {
+      "BARRIER_STATUS": 191.6666666666667,
+      "PRESSURE_INTEGRITY": 170.0,
+      "CORROSION_STATUS": 135.0,
+      "DATA_COMPLETENESS": 165.0
+    }
+  },
+  "16/28- 1": {
+    "score": 76.66666666666667,
+    "criteria": {
+      "BARRIER_STATUS": 16.666666666666668,
+      "DATA_COMPLETENESS": 60.0
+    }
+  },
+  "UNKNOWN": {
+    "score": 90.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 90.0
+    }
+  },
+  "49/17-15 Vantage": {
+    "score": 100,
+    "criteria": {
+      "DATA_COMPLETENESS": 135.0,
+      "MONITORING": 30.0,
+      "PRESSURE_INTEGRITY": 30.0
+    }
+  },
+  "21/10-F02": {
+    "score": 100,
+    "criteria": {
+      "PRESSURE_INTEGRITY": 150.0,
+      "DATA_COMPLETENESS": 240.0,
+      "CORROSION_STATUS": 5.0
+    }
+  },
+  "16/28-1": {
+    "score": 40.0,
+    "criteria": {
+      "CORROSION_STATUS": 10.0,
+      "DATA_COMPLETENESS": 30.0
+    }
+  },
+  "009/13 -B56Z": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "49/29b- 11": {
+    "score": 50.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 45.0,
+      "CORROSION_STATUS": 5.0
+    }
+  },
+  "49/17- 15": {
+    "score": 30.0,
+    "criteria": {
+      "PRESSURE_INTEGRITY": 10.0,
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "GBR_21/10-F02": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "3/30-1": {
+    "score": 40.0,
+    "criteria": {
+      "CORROSION_STATUS": 10.0,
+      "DATA_COMPLETENESS": 30.0
+    }
+  },
+  "9/13a-B56z": {
+    "score": 20.0,
+    "criteria": {
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "49/22- 5": {
+    "score": 10.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 10.0
+    }
+  },
+  "49/29b-5": {
+    "score": 20.0,
+    "criteria": {
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "9/13-B56Z": {
+    "score": 30.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 30.0
+    }
+  },
+  "UK 110-02-06": {
+    "score": 70.0,
+    "criteria": {
+      "CORROSION_STATUS": 10.0,
+      "DATA_COMPLETENESS": 45.0,
+      "MONITORING": 15.0
+    }
+  },
+  "49/22-5": {
+    "score": 30.0,
+    "criteria": {
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 25.0
+    }
+  },
+  "GBR_9/13-B56Z": {
+    "score": 20.0,
+    "criteria": {
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "FB51OH_B02": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "21/10-F0 2": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "GUAP1": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "48/22-1": {
+    "score": 20.0,
+    "criteria": {
+      "CORROSION_STATUS": 5.0,
+      "DATA_COMPLETENESS": 15.0
+    }
+  },
+  "49/17-15": {
+    "score": 40.0,
+    "criteria": {
+      "CORROSION_STATUS": 10.0,
+      "DATA_COMPLETENESS": 30.0
+    }
+  },
+  "FSS17OH_F02": {
+    "score": 15.0,
+    "criteria": {
+      "DATA_COMPLETENESS": 15.0
+    }
+  }
+}

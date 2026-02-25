@@ -1,0 +1,17 @@
+[
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+    "well": "49/29b- 11",
+    "curve": "CALI",
+    "nominal_size": "7.0",
+    "nominal_id": 6.18,
+    "min_id": 5.836,
+    "max_id": 7.128,
+    "avg_id": 6.155,
+    "metal_loss_pct": 5.57,
+    "current_wall": 0.013,
+    "expected_wall": 0.41,
+    "data_points": 199,
+    "corrosion_risk": "LOW"
+  }
+]

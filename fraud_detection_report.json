@@ -1,0 +1,2078 @@
+[
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615192.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "5ca61ea922441a6a"
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984897.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "b93b6b1d7e900c06"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_14022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "90db2ba903fcadde"
+  },
+  {
+    "file": "21_25-G1_dwl_DWL_TEST_54972515.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "b681782a1d0bb6e2"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "813aeee01a50962b"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_03022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "454128e19d7cd2dc"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991754.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "29424a41e92d9b43"
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723854.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "bcafdf22489903fe"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_01022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "adba056d98c011f4"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615354.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "6b32d006b5934675"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_17022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "1adc067f93437895"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_OTHER_7919715.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "8695df28c3adeca1"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615510.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "52a6fe719d74db52"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_WIRE_PPFG_POST.las",
+    "flags": [
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "db5678847a8e9e49"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_04022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "cd0cdbf6b02bf955"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_11022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "26577e843c121ace"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_12022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "1ccf39a0aa5f0580"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_06022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "fdfd92f204a2c938"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "e9d8bbb6eaa78c69"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_24022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ab87ebf68ed3009d"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_16022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "17b426bf3151aa26"
+  },
+  {
+    "file": "9_13a-B56Z__JWL_FILE_265849470.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "3a7f865ae88c125d"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991753.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "6012a8d8db716a2e"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_10022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "52a4020b8e72bf25"
+  },
+  {
+    "file": "21_25-G1_dwl_DWL_TEST_54972521.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "59d028bda7ad6924"
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "e15e7adfbeccf912"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615225.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "607d384fd6c896c0"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "e018e477d467c67e"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615222.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "4c2281d97d34d196"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615399.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "780ffdae4102f131"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "c5ea740689b78d81"
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723865.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "0c49e794573005c2"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615210.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ee1faeb048bac971"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615465.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "4f8ab2c3731c2cbc"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MUD_302615141.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '1' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "978ed8091ad9a479"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_07022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "47cd29c3131d94d7"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615186.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "de52280b2141b209"
+  },
+  {
+    "file": "ENI_48-29_A1_DWL_MUD_Time_31012024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "d40e448058b5bb69"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615372.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "c69db416db64b2ca"
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984898.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "ba4e66eae88f54d4"
+  },
+  {
+    "file": "9_13a-B56Z_log_LOG_WIRE_35925515.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "c28434da98ced2a5"
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "cf338aa4dd161926"
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723857.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "b84ed4f3f46281d7"
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984892.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "3e54871d675d231f"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_18022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a58a0ce57789432c"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_23022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "83b74663d70827d1"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615204.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "55fe7f51739994e5"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_08022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "c5a7e63bd57f84a2"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615459.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "0bc1bfd47dbea3ec"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_21022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "86e9c52b9c0cfae2"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615195.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "446910dffe202ee9"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615228.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "dd1837907bbcafe4"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_15022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a32ed7ec1cfb0a69"
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984893.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "b6dccd04231a9ea3"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615405.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ce77f8ac468cbf65"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_25022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "b25513040c931e73"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_09022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "cd4a4225c4d484d3"
+  },
+  {
+    "file": "9_13a-B56Z_dwl__1633754.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "9d54fec0675c61b4"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991756.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "6b8b29341089f161"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991750.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ccb73c3dab2989cc"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "9fb76a49f7a9fd2f"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_02022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ffb89b155e7db11a"
+  },
+  {
+    "file": "110_02-_6_dwl_DWL_WIRE_345112075.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "f00756671b23d7e3"
+  },
+  {
+    "file": "9_13a-B56Z_dwl__1633755.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "50029466d1c96169"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991752.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a1541570a167e6ec"
+  },
+  {
+    "file": "21_10-B2__JWL_FILE_265866497.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "3dc919ebfc4ffc2a"
+  },
+  {
+    "file": "110_02-_6_dwl_DWL_WIRE_345112613.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "cf65f6260bcba5cc"
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723848.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "ff97dc7908a800b9"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_22022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a73832329c8eef82"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_242014634.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "2192a2206c7e7be3"
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ab2de11e9675899b"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_20022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "6d9b21f4d3ca8391"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615216.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "cabec83efef6166f"
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "111199294418510e"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615375.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "dda702fc6ea976ad"
+  },
+  {
+    "file": "21_25-G1_dwl_DWL_OTHER_221533139.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "0d6666ce146a2aed"
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_381679501.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "8c3cb90e05356239"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "d8017c452a7ff504"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615504.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "2c6d8650638a89fc"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984891.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "050dc1ef073e6732"
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_MUD_Time_13022024.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "f0627316488961c2"
+  },
+  {
+    "file": "110_02-_6_dwl_DWL_WIRE_345109498.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "d015399cfbac770e"
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723851.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      }
+    ],
+    "data_hash": "7d56027ef31936d4"
+  },
+  {
+    "file": "16_28-1_CORE (3).las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "60b3697d21f076da"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991755.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "63ae76af8a44cf7d"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615411.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "f1a909641f9d3e9a"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615219.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "cd25adf01715a0ca"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615513.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "f08573c41c2446d1"
+  },
+  {
+    "file": "16_28-1_CORE.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "60b3697d21f076da"
+  },
+  {
+    "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F004",
+        "type": "PHYSICS_VIOLATION",
+        "severity": "CRITICAL",
+        "message": "Stop depth (0.0) <= Start depth (0.0) - Impossible geometry"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615183.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "30cefea376752759"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615363.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "46cb3ca7b9b95316"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_242014631.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "037b42bf99b04b12"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615201.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "bb07af6bfb6e1044"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "563e496e4bcf80af"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615393.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "b338946013daf0a6"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615369.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "110e9297879f7b20"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "d4d0a9aaefef3a7a"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615378.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "18cb7d9c474995ac"
+  },
+  {
+    "file": "21_10-F2__JWL_FILE_265865183.las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      },
+      {
+        "code": "F007",
+        "type": "OPERATOR_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing company/operator - Responsibility chain broken"
+      }
+    ],
+    "data_hash": "50e6a0e73231801c"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615189.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ed6ecbfcea2a5b30"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615357.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "3242ca4794b2d9d6"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a1371f60a9fa3593"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615348.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "ef8cd7a9dfd9ce7b"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615213.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "0033ecd858092496"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615462.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "bbea65a4363b9b43"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615384.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "5391666bf40dfe1c"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615507.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "a790c74beef81a29"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615417.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "d225b093fe8adf09"
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615387.las",
+    "flags": [
+      {
+        "code": "F001",
+        "type": "IDENTITY_FRAUD",
+        "severity": "HIGH",
+        "message": "Invalid UWI: '' - Possible placeholder to hide well identity"
+      },
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "8d4952ce94fc7aa8"
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751 (3).las",
+    "flags": [
+      {
+        "code": "F002",
+        "type": "LOCATION_OBSCURATION",
+        "severity": "MEDIUM",
+        "message": "Missing or zero coordinates - Location intentionally obscured"
+      }
+    ],
+    "data_hash": "9fb76a49f7a9fd2f"
+  }
+]

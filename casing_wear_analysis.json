@@ -1,0 +1,250 @@
+[
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723854.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+    "well": "16/28-1",
+    "has_caliper": true,
+    "caliper_count": 4,
+    "multi_arm": true,
+    "wear_detection_capable": true
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z__JWL_FILE_265849470.las",
+    "well": "009/13 -B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+    "well": "49/17- 15",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723865.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "3_30-_1_jwl_JWL_FILE_311422571.las",
+    "well": "3/30-1",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+    "well": "49/22- 5",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723857.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "3_30-_1_jwl_JWL_FILE_311422571 (3).las",
+    "well": "3/30-1",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_29b-_5_jwl_JWL_FILE_312260621.las",
+    "well": "49/29b-5",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "21_10-B2_dwl_DWL_WIRE_1984893.las",
+    "well": "21/10-B02",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "110_02-_6_dwl_DWL_WIRE_345112075.las",
+    "well": "UK 110-02-06",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_311746980.las",
+    "well": "49/22-5",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "21_10-B2__JWL_FILE_265866497.las",
+    "well": "FB51OH_B02",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "110_02-_6_dwl_DWL_WIRE_345112613.las",
+    "well": "UK 110-02-06",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723848.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+    "well": "16/28-1",
+    "has_caliper": true,
+    "caliper_count": 4,
+    "multi_arm": true,
+    "wear_detection_capable": true
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+    "well": "49/29b- 11",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_381679501.las",
+    "well": "49/22-5",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723851.las",
+    "well": "9/13a-B56Z",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "48_22-_1_jwl_JWL_FILE_311744427.las",
+    "well": "48/22-1",
+    "has_caliper": true,
+    "caliper_count": 3,
+    "multi_arm": true,
+    "wear_detection_capable": true
+  },
+  {
+    "file": "49_17-_15_jwl_JWL_FILE_311746251.las",
+    "well": "49/17-15",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_242014631.las",
+    "well": "21/10-F02",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "21_10-F2__JWL_FILE_265865183.las",
+    "well": "FSS17OH_F02",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  },
+  {
+    "file": "49_17-_15_jwl_JWL_FILE_311746251 (3).las",
+    "well": "49/17-15",
+    "has_caliper": true,
+    "caliper_count": 1,
+    "multi_arm": false,
+    "wear_detection_capable": false
+  }
+]

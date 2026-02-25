@@ -1,0 +1,103 @@
+{
+  "scan_timestamp": "2026-02-25T01:49:43.134001",
+  "total_files": 134,
+  "unique_wells": 24,
+  "wells": {
+    "21/10-F2": {
+      "field": "FORTIES",
+      "file_count": 28
+    },
+    "21/10-B02": {
+      "field": "UNKNOWN",
+      "file_count": 5
+    },
+    "48/29-A1": {
+      "field": "UNKNOWN",
+      "file_count": 25
+    },
+    "16/28- 1": {
+      "field": "Andrew_Field",
+      "file_count": 4
+    },
+    "UNKNOWN": {
+      "field": "UNKNOWN",
+      "file_count": 7
+    },
+    "49/17-15 Vantage": {
+      "field": "49/17",
+      "file_count": 9
+    },
+    "21/10-F02": {
+      "field": "Forties",
+      "file_count": 16
+    },
+    "009/13 -B56Z": {
+      "field": "UNKNOWN",
+      "file_count": 1
+    },
+    "21/25-G1 (GUAP1)": {
+      "field": "GUILLEMOT",
+      "file_count": 1
+    },
+    "49/29b- 11": {
+      "field": "Tristan",
+      "file_count": 3
+    },
+    "49/17- 15": {
+      "field": "Vantage",
+      "file_count": 1
+    },
+    "GBR/21/10-F02": {
+      "field": "Forties",
+      "file_count": 1
+    },
+    "3/30-1": {
+      "field": "WILDCAT",
+      "file_count": 2
+    },
+    "9/13a-B56z": {
+      "field": "Beryl",
+      "file_count": 1
+    },
+    "9/13-B56Z": {
+      "field": "Beryl",
+      "file_count": 2
+    },
+    "UK 110-02-06": {
+      "field": "SOUTH MORECAMBE",
+      "file_count": 3
+    },
+    "GBR/9/13-B56Z": {
+      "field": "BRAVO",
+      "file_count": 1
+    },
+    "FB51OH/B02": {
+      "field": "UNKNOWN",
+      "file_count": 1
+    },
+    "21/10-F0 2": {
+      "field": "Forties",
+      "file_count": 1
+    },
+    "GUAP1": {
+      "field": "Guillemot",
+      "file_count": 1
+    },
+    "49/22-5": {
+      "field": "EUROPA",
+      "file_count": 1
+    },
+    "48/22-1": {
+      "field": "Wildcat",
+      "file_count": 1
+    },
+    "49/17-15": {
+      "field": "VANTAGE",
+      "file_count": 2
+    },
+    "FSS17OH/F02": {
+      "field": "UNKNOWN",
+      "file_count": 1
+    }
+  }
+}

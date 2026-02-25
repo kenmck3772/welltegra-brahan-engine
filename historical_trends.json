@@ -1,0 +1,809 @@
+{
+  "dated_files": [
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615192.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_14022024.las",
+      "well": "48/29-A1",
+      "date_str": "14/02/2024",
+      "date": "2024-02-14T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_25-G1_dwl_DWL_TEST_54972515.las",
+      "well": "",
+      "date_str": "11-26-2009",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "16_28-1_MUDLOG.las",
+      "well": "M",
+      "date_str": "01/07/1974",
+      "date": "1974-07-01T00:00:00",
+      "year": 1974
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_03022024.las",
+      "well": "48/29-A1",
+      "date_str": "03/02/2024",
+      "date": "2024-02-03T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991754.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723854.las",
+      "well": "",
+      "date_str": "08-Dec-2015",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_01022024.las",
+      "well": "48/29-A1",
+      "date_str": "01/02/2024",
+      "date": "2024-02-01T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615354.las",
+      "well": "",
+      "date_str": "02/11/2014-09",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_17022024.las",
+      "well": "48/29-A1",
+      "date_str": "17/02/2024",
+      "date": "2024-02-17T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_OTHER_7919715.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615510.las",
+      "well": "",
+      "date_str": "01-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_04022024.las",
+      "well": "48/29-A1",
+      "date_str": "04/02/2024",
+      "date": "2024-02-04T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_11022024.las",
+      "well": "48/29-A1",
+      "date_str": "11/02/2024",
+      "date": "2024-02-11T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_12022024.las",
+      "well": "48/29-A1",
+      "date_str": "12/02/2024",
+      "date": "2024-02-12T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+      "well": "16/28-1",
+      "date_str": "APR-JUN-1974",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_06022024.las",
+      "well": "48/29-A1",
+      "date_str": "06/02/2024",
+      "date": "2024-02-06T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_24022024.las",
+      "well": "48/29-A1",
+      "date_str": "24/02/2024",
+      "date": "2024-02-24T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "16_28-1_MUDLOG (3).las",
+      "well": "M",
+      "date_str": "01/07/1974",
+      "date": "1974-07-01T00:00:00",
+      "year": 1974
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_16022024.las",
+      "well": "48/29-A1",
+      "date_str": "16/02/2024",
+      "date": "2024-02-16T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "9_13a-B56Z__JWL_FILE_265849470.las",
+      "well": "UKOF-009/13-B56-1",
+      "date_str": "2018-07-18 15",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991753.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_10022024.las",
+      "well": "48/29-A1",
+      "date_str": "10/02/2024",
+      "date": "2024-02-10T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+      "well": "49/29b- 11",
+      "date_str": "21/12/07",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615225.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615222.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615399.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "well": "02^20'14",
+      "date_str": "09/09/08",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723865.las",
+      "well": "",
+      "date_str": "08-Dec-2015",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615210.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615465.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MUD_302615141.las",
+      "well": "1",
+      "date_str": "04/06/2015",
+      "date": "2015-06-04T00:00:00",
+      "year": 2015
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_07022024.las",
+      "well": "48/29-A1",
+      "date_str": "07/02/2024",
+      "date": "2024-02-07T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615186.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48-29_A1_DWL_MUD_Time_31012024.las",
+      "well": "48/29-A1",
+      "date_str": "31/01/2024",
+      "date": "2024-01-31T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "3_30-_1_jwl_JWL_FILE_311422571.las",
+      "well": "3/30-1",
+      "date_str": "JUL-AUG-1975",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615372.las",
+      "well": "",
+      "date_str": "26/10/2014-13",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+      "well": "ALL",
+      "date_str": "1988/03/19",
+      "date": "1988-03-19T00:00:00",
+      "year": 1988
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723857.las",
+      "well": "",
+      "date_str": "08-Dec-2015",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "3_30-_1_jwl_JWL_FILE_311422571 (3).las",
+      "well": "3/30-1",
+      "date_str": "JUL-AUG-1975",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_18022024.las",
+      "well": "48/29-A1",
+      "date_str": "18/02/2024",
+      "date": "2024-02-18T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_23022024.las",
+      "well": "48/29-A1",
+      "date_str": "23/02/2024",
+      "date": "2024-02-23T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615204.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_08022024.las",
+      "well": "48/29-A1",
+      "date_str": "08/02/2024",
+      "date": "2024-02-08T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615459.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_21022024.las",
+      "well": "48/29-A1",
+      "date_str": "21/02/2024",
+      "date": "2024-02-21T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615195.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615228.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_15022024.las",
+      "well": "48/29-A1",
+      "date_str": "15/02/2024",
+      "date": "2024-02-15T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "49_29b-_5_jwl_JWL_FILE_312260621.las",
+      "well": "49/29b-5",
+      "date_str": "Jun-Aug-1987",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615405.las",
+      "well": "",
+      "date_str": "26/09/2014-22",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_25022024.las",
+      "well": "48/29-A1",
+      "date_str": "25/02/2024",
+      "date": "2024-02-25T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_09022024.las",
+      "well": "48/29-A1",
+      "date_str": "09/02/2024",
+      "date": "2024-02-09T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "9_13a-B56Z_dwl__1633754.las",
+      "well": "9/13-B56Z",
+      "date_str": "00",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991756.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991750.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991751.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_02022024.las",
+      "well": "48/29-A1",
+      "date_str": "02/02/2024",
+      "date": "2024-02-02T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345112075.las",
+      "well": "",
+      "date_str": "78/08/02",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_22-_5_jwl_JWL_FILE_311746980.las",
+      "well": "49/22-5",
+      "date_str": "MAR-OCT-1988",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "9_13a-B56Z_dwl__1633755.las",
+      "well": "9/13-B56Z",
+      "date_str": "00",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991752.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "GBR_9_13-B56Z_MUDLOG.las",
+      "well": "UKOF-009/13-B56-1",
+      "date_str": "01/24/2023",
+      "date": "2023-01-24T00:00:00",
+      "year": 2023
+    },
+    {
+      "file": "21_10-B2__JWL_FILE_265866497.las",
+      "well": "GBR_21/10-B02",
+      "date_str": "2018-07-23 14",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345112613.las",
+      "well": "",
+      "date_str": "78/08/02",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723848.las",
+      "well": "",
+      "date_str": "08-Dec-2015",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_22022024.las",
+      "well": "48/29-A1",
+      "date_str": "22/02/2024",
+      "date": "2024-02-22T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_242014634.las",
+      "well": "",
+      "date_str": "02/11/2014-09",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+      "well": "49/29b- 11",
+      "date_str": "23/12/07",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+      "well": "16/28-1",
+      "date_str": "APR-JUN-1974",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_20022024.las",
+      "well": "48/29-A1",
+      "date_str": "20/02/2024",
+      "date": "2024-02-20T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615216.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "well": "02^40'57",
+      "date_str": "23/12/07",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615375.las",
+      "well": "",
+      "date_str": "04/10/2014-11",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_25-G1_dwl_DWL_OTHER_221533139.las",
+      "well": "",
+      "date_str": "06-17-2011",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615504.las",
+      "well": "",
+      "date_str": "01-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_MUD_Time_13022024.las",
+      "well": "48/29-A1",
+      "date_str": "13/02/2024",
+      "date": "2024-02-13T00:00:00",
+      "year": 2024
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345109498.las",
+      "well": "",
+      "date_str": "78/08/02",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723851.las",
+      "well": "",
+      "date_str": "08-Dec-2015",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "16_28-1_CORE (3).las",
+      "well": "16_28-1",
+      "date_str": "Fri May 6 2011-12_34_21",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991755.las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615411.las",
+      "well": "",
+      "date_str": "26/09/2014-08",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615219.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "48_22-_1_jwl_JWL_FILE_311744427.las",
+      "well": "48/22-1",
+      "date_str": "18-Sep-28-Nov-1966",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615513.las",
+      "well": "",
+      "date_str": "01-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "16_28-1_CORE.las",
+      "well": "16_28-1",
+      "date_str": "Fri May 6 2011-12_34_21",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_jwl_JWL_FILE_311746251.las",
+      "well": "49/17-15",
+      "date_str": "AUG-SEP-2008",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615183.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615363.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_242014631.las",
+      "well": "",
+      "date_str": "02/11/2014-09",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615201.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615393.las",
+      "well": "",
+      "date_str": "01/10/2014-08",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615369.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615378.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2__JWL_FILE_265865183.las",
+      "well": "GBR_21/10-F02",
+      "date_str": "2018-07-23 08",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615189.las",
+      "well": "",
+      "date_str": "03-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615357.las",
+      "well": "",
+      "date_str": "26/10/2014-12",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615348.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_TEST_302615213.las",
+      "well": "",
+      "date_str": "02-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615462.las",
+      "well": "",
+      "date_str": "07-NOV-2014",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615384.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615507.las",
+      "well": "",
+      "date_str": "01-Jul-2017",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615417.las",
+      "well": "",
+      "date_str": "DD/MM/YYYY-HH",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_MWD_302615387.las",
+      "well": "",
+      "date_str": "26/10/2014-13",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_jwl_JWL_FILE_311746251 (3).las",
+      "well": "49/17-15",
+      "date_str": "AUG-SEP-2008",
+      "date": null,
+      "year": null
+    },
+    {
+      "file": "49_17-_15_dwl_DWL_MUD_1991751 (3).las",
+      "well": "0 file",
+      "date_str": "20080808160500",
+      "date": null,
+      "year": null
+    }
+  ],
+  "by_year": {
+    "2024": 24,
+    "1974": 2,
+    "2015": 1,
+    "1988": 1,
+    "2023": 1
+  },
+  "by_well": {
+    "48/29-A1": 24,
+    "M": 2,
+    "1": 1,
+    "ALL": 1,
+    "UKOF-009/13-B56-1": 1
+  }
+}

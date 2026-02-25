@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WellTegra Forensic Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial; background: #1a1a2e; color: #eee; padding: 20px; }
+        h1 { color: #00d4ff; }
+        .summary { display: flex; gap: 20px; margin: 20px 0; }
+        .stat-box { background: #16213e; padding: 20px; border-radius: 8px; text-align: center; min-width: 150px; }
+        .stat-value { font-size: 2.5em; color: #00d4ff; font-weight: bold; }
+        .stat-label { color: #888; margin-top: 5px; }
+        .charts { display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0; }
+        .chart-container { background: #16213e; padding: 20px; border-radius: 8px; width: 45%; min-width: 400px; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #333; padding: 12px; text-align: left; }
+        th { background: #16213e; color: #00d4ff; }
+        tr:nth-child(even) { background: #0f3460; }
+        .good { color: #4ecca3; }
+        .warning { color: #ffd93d; }
+    </style>
+</head>
+<body>
+    <h1>🔍 WellTegra Forensic Dashboard</h1>
+    
+    <div class="summary">
+        <div class="stat-box">
+            <div class="stat-value">134</div>
+            <div class="stat-label">LAS Files</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-value">24</div>
+            <div class="stat-label">Unique Wells</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-value">463</div>
+            <div class="stat-label">PDF Files</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-value">761</div>
+            <div class="stat-label">TIFF Files</div>
+        </div>
+    </div>
+
+    <div class="charts">
+        <div class="chart-container">
+            <canvas id="wellChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <canvas id="pdfChart"></canvas>
+        </div>
+    </div>
+
+    <table>
+        <tr><th>Well Name</th><th>Files</th><th>Field</th><th>Status</th></tr>
+<tr><td>21/10-F2</td><td>28</td><td>FORTIES</td><td><span class="good">✅</span></td></tr>
+<tr><td>48/29-A1</td><td>25</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+<tr><td>21/10-F02</td><td>16</td><td>Forties</td><td><span class="good">✅</span></td></tr>
+<tr><td>49/17-15 Vantage</td><td>9</td><td>49/17</td><td><span class="good">✅</span></td></tr>
+<tr><td>UNKNOWN</td><td>7</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+<tr><td>21/10-B02</td><td>5</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+<tr><td>16/28- 1</td><td>4</td><td>Andrew_Field</td><td><span class="good">✅</span></td></tr>
+<tr><td>49/29b- 11</td><td>3</td><td>Tristan</td><td><span class="good">✅</span></td></tr>
+<tr><td>UK 110-02-06</td><td>3</td><td>SOUTH MORECAMBE</td><td><span class="good">✅</span></td></tr>
+<tr><td>3/30-1</td><td>2</td><td>WILDCAT</td><td><span class="good">✅</span></td></tr>
+<tr><td>9/13-B56Z</td><td>2</td><td>Beryl</td><td><span class="good">✅</span></td></tr>
+<tr><td>49/17-15</td><td>2</td><td>VANTAGE</td><td><span class="good">✅</span></td></tr>
+<tr><td>009/13 -B56Z</td><td>1</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+<tr><td>21/25-G1 (GUAP1)</td><td>1</td><td>GUILLEMOT</td><td><span class="good">✅</span></td></tr>
+<tr><td>49/17- 15</td><td>1</td><td>Vantage</td><td><span class="good">✅</span></td></tr>
+<tr><td>GBR/21/10-F02</td><td>1</td><td>Forties</td><td><span class="good">✅</span></td></tr>
+<tr><td>9/13a-B56z</td><td>1</td><td>Beryl</td><td><span class="good">✅</span></td></tr>
+<tr><td>GBR/9/13-B56Z</td><td>1</td><td>BRAVO</td><td><span class="good">✅</span></td></tr>
+<tr><td>FB51OH/B02</td><td>1</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+<tr><td>21/10-F0 2</td><td>1</td><td>Forties</td><td><span class="good">✅</span></td></tr>
+<tr><td>GUAP1</td><td>1</td><td>Guillemot</td><td><span class="good">✅</span></td></tr>
+<tr><td>49/22-5</td><td>1</td><td>EUROPA</td><td><span class="good">✅</span></td></tr>
+<tr><td>48/22-1</td><td>1</td><td>Wildcat</td><td><span class="good">✅</span></td></tr>
+<tr><td>FSS17OH/F02</td><td>1</td><td>UNKNOWN</td><td><span class="warning">⚠️</span></td></tr>
+</table>
+
+    <script>
+        // Well files chart
+        const wellCtx = document.getElementById('wellChart').getContext('2d');
+        new Chart(wellCtx, {
+            type: 'bar',
+            data: {
+                labels: ['21/10-F2', '48/29-A1', '21/10-F02', '49/17-15', 'UNKNOWN', '21/10-B02', '16/28-1', 'Others'],
+                datasets: [{
+                    label: 'Files per Well',
+                    data: [28, 25, 16, 9, 7, 5, 4, 40],
+                    backgroundColor: '#00d4ff',
+                    borderColor: '#0099cc',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { title: { display: true, text: 'Files by Well', color: '#fff' } },
+                scales: { y: { ticks: { color: '#888' } }, x: { ticks: { color: '#888' } } }
+            }
+        });
+
+        // PDF categories chart
+        const pdfCtx = document.getElementById('pdfChart').getContext('2d');
+        new Chart(pdfCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['Log', 'Other', 'Drilling', 'Core', 'Pressure', 'Completion', 'Cement', 'History'],
+                datasets: [{
+                    data: [114, 216, 58, 26, 23, 13, 7, 6],
+                    backgroundColor: ['#00d4ff', '#666', '#4ecca3', '#ffd93d', '#ff6b6b', '#9b59b6', '#e67e22', '#1abc9c']
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { title: { display: true, text: 'PDF Categories', color: '#fff' } }
+            }
+        });
+    </script>
+</body>
+</html>

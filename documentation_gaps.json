@@ -1,0 +1,1433 @@
+{
+  "wells": {
+    "21/10-F2": {
+      "las": [
+        "CCL Log",
+        "GR Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log"
+      ],
+      "pdf": [
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Pressure Test",
+        "Temperature Log",
+        "CCL Log"
+      ]
+    },
+    "21/10-B02": {
+      "las": [
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "Cement Job Report",
+        "GR Log"
+      ]
+    },
+    "48/29-A1": {
+      "las": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Pressure Test"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "GR Log",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "Cement Volume Record",
+        "Pressure Test",
+        "Cure Time (WOC)"
+      ]
+    },
+    "21/25-G1 (GUAP1)": {
+      "las": [
+        "Temperature Log",
+        "Pressure Test",
+        "GR Log",
+        "Cement Volume Record"
+      ],
+      "pdf": [
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Tubing Tally",
+        "Pressure Test",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "GR Log"
+      ],
+      "missing": [
+        "Cure Time (WOC)",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "CCL Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "9/13a-B56Z": {
+      "las": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "Pressure Test"
+      ],
+      "pdf": [
+        "Pressure Test"
+      ],
+      "missing": [
+        "EOWR",
+        "Cure Time (WOC)"
+      ],
+      "found": [
+        "Returns Documentation",
+        "GR Log",
+        "Cement Volume Record",
+        "Temperature Log",
+        "CCL Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally"
+      ]
+    },
+    "16/28- 1": {
+      "las": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "GR Log",
+        "Cement Job Report",
+        "Tubing Tally",
+        "GR Log",
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [
+        "EOWR",
+        "Cement Job Report",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "EOWR",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally",
+        "Tubing Tally",
+        "Pressure Test",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "EOWR",
+        "GR Log",
+        "Returns Documentation",
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "GR Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "EOWR",
+        "GR Log",
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log"
+      ],
+      "found": [
+        "Returns Documentation",
+        "GR Log",
+        "CCL Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "49/17-15 Vantage": {
+      "las": [
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "Pressure Test",
+        "GR Log"
+      ]
+    },
+    "21/10-F02": {
+      "las": [
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "GR Log",
+        "Temperature Log",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)"
+      ],
+      "found": [
+        "Pressure Test",
+        "Temperature Log",
+        "GR Log",
+        "Returns Documentation"
+      ]
+    },
+    "16/28-1": {
+      "las": [
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "009/13 -B56Z": {
+      "las": [
+        "GR Log"
+      ],
+      "pdf": [
+        "Pressure Test"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "Pressure Test",
+        "GR Log"
+      ]
+    },
+    "49/29b- 11": {
+      "las": [
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log"
+      ],
+      "pdf": [
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test"
+      ],
+      "missing": [
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "49/17- 15": {
+      "las": [
+        "Tubing Tally",
+        "GR Log",
+        "Pressure Test"
+      ],
+      "pdf": [
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "EOWR",
+        "Pressure Test"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "3/30-1": {
+      "las": [
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "9/13a-B56z": {
+      "las": [
+        "CCL Log",
+        "GR Log"
+      ],
+      "pdf": [
+        "Pressure Test"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Pressure Test",
+        "CCL Log"
+      ]
+    },
+    "49/22- 5": {
+      "las": [
+        "Cement Job Report",
+        "GR Log"
+      ],
+      "pdf": [
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "GR Log",
+        "Tubing Tally",
+        "Cement Job Report",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "GR Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally",
+        "Tubing Tally",
+        "Tubing Tally",
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "CCL Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "49/29b-5": {
+      "las": [
+        "GR Log"
+      ],
+      "pdf": [
+        "EOWR",
+        "GR Log",
+        "EOWR",
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "EOWR"
+      ]
+    },
+    "9/13-B56Z": {
+      "las": [
+        "Tubing Tally",
+        "GR Log",
+        "Returns Documentation",
+        "Tubing Tally",
+        "GR Log",
+        "Returns Documentation"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test"
+      ],
+      "found": [
+        "GR Log",
+        "Tubing Tally",
+        "Returns Documentation"
+      ]
+    },
+    "UK 110-02-06": {
+      "las": [
+        "GR Log",
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "49/22-5": {
+      "las": [
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "GBR_9/13-B56Z": {
+      "las": [
+        "Tubing Tally",
+        "GR Log",
+        "Pressure Test"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally"
+      ]
+    },
+    "FB51OH_B02": {
+      "las": [
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "21/10-F0 2": {
+      "las": [
+        "Returns Documentation"
+      ],
+      "pdf": [
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "EOWR",
+        "GR Log",
+        "EOWR",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Pressure Test",
+        "CCL Log",
+        "GR Log",
+        "Pressure Test",
+        "Tubing Tally",
+        "Tubing Tally",
+        "Pressure Test",
+        "GR Log",
+        "CCL Log",
+        "GR Log",
+        "GR Log",
+        "EOWR",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "GR Log",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "GR Log",
+        "Pressure Test",
+        "Cement Job Report",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Tubing Tally",
+        "EOWR",
+        "EOWR",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "Pressure Test",
+        "EOWR",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "GR Log",
+        "GR Log",
+        "Pressure Test",
+        "Pressure Test",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally",
+        "Tubing Tally",
+        "Tubing Tally",
+        "GR Log",
+        "Tubing Tally"
+      ],
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log"
+      ],
+      "found": [
+        "Returns Documentation",
+        "GR Log",
+        "CCL Log",
+        "Cement Job Report",
+        "Pressure Test",
+        "Tubing Tally",
+        "EOWR"
+      ]
+    },
+    "GUAP1": {
+      "las": [
+        "Cement Volume Record"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "GR Log",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "Cement Volume Record"
+      ]
+    },
+    "48/22-1": {
+      "las": [
+        "GR Log"
+      ],
+      "pdf": [
+        "GR Log"
+      ],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "49/17-15": {
+      "las": [
+        "GR Log",
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    },
+    "FSS17OH_F02": {
+      "las": [
+        "GR Log"
+      ],
+      "pdf": [],
+      "missing": [
+        "Cement Job Report",
+        "Tubing Tally",
+        "EOWR",
+        "CCL Log",
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Pressure Test",
+        "Returns Documentation"
+      ],
+      "found": [
+        "GR Log"
+      ]
+    }
+  },
+  "critical_gaps": [
+    {
+      "well": "21/10-F2",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "21/10-B02",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "48/29-A1",
+      "missing": [
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "21/25-G1 (GUAP1)",
+      "missing": [
+        "Cure Time (WOC)",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "9/13a-B56Z",
+      "missing": [
+        "Cure Time (WOC)"
+      ]
+    },
+    {
+      "well": "16/28- 1",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log"
+      ]
+    },
+    {
+      "well": "49/17-15 Vantage",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "21/10-F02",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)"
+      ]
+    },
+    {
+      "well": "16/28-1",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "009/13 -B56Z",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/29b- 11",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/17- 15",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "3/30-1",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "9/13a-B56z",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/22- 5",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/29b-5",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "9/13-B56Z",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log"
+      ]
+    },
+    {
+      "well": "UK 110-02-06",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/22-5",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "GBR_9/13-B56Z",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "FB51OH_B02",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "21/10-F0 2",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log"
+      ]
+    },
+    {
+      "well": "GUAP1",
+      "missing": [
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "48/22-1",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "49/17-15",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    },
+    {
+      "well": "FSS17OH_F02",
+      "missing": [
+        "Cement Volume Record",
+        "Cure Time (WOC)",
+        "Temperature Log",
+        "Returns Documentation"
+      ]
+    }
+  ],
+  "required_docs": [
+    "Cement Job Report",
+    "Tubing Tally",
+    "EOWR",
+    "CCL Log",
+    "GR Log",
+    "Cement Volume Record",
+    "Cure Time (WOC)",
+    "Temperature Log",
+    "Pressure Test",
+    "Returns Documentation"
+  ]
+}

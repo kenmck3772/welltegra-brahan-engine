@@ -1,0 +1,416 @@
+{
+  "kind": "osdu:wks:master-data--Well:1.0.0",
+  "version": "2026-02-25",
+  "authority": "welltegra.com",
+  "source": "WellTegra Forensic Engine",
+  "wells": [
+    {
+      "id": "welltegra:master-data--Well:21_10-F2",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "21/10-F2",
+        "FacilityNameAlias": [],
+        "FieldID": "FORTIES",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 28,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:21_10-B02",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "21/10-B02",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 5,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:48_29-A1",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "48/29-A1",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 25,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:16_28- 1",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "16/28- 1",
+        "FacilityNameAlias": [],
+        "FieldID": "Andrew_Field",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 4,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:UNKNOWN",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "UNKNOWN",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 7,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:49_17-15 Vantage",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "49/17-15 Vantage",
+        "FacilityNameAlias": [],
+        "FieldID": "49/17",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 9,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:21_10-F02",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "21/10-F02",
+        "FacilityNameAlias": [],
+        "FieldID": "Forties",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 16,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:009_13 -B56Z",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "009/13 -B56Z",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:21_25-G1 (GUAP1)",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "21/25-G1 (GUAP1)",
+        "FacilityNameAlias": [],
+        "FieldID": "GUILLEMOT",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:49_29b- 11",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "49/29b- 11",
+        "FacilityNameAlias": [],
+        "FieldID": "Tristan",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 3,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:49_17- 15",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "49/17- 15",
+        "FacilityNameAlias": [],
+        "FieldID": "Vantage",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:GBR_21_10-F02",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "GBR/21/10-F02",
+        "FacilityNameAlias": [],
+        "FieldID": "Forties",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:3_30-1",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "3/30-1",
+        "FacilityNameAlias": [],
+        "FieldID": "WILDCAT",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 2,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:9_13a-B56z",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "9/13a-B56z",
+        "FacilityNameAlias": [],
+        "FieldID": "Beryl",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:9_13-B56Z",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "9/13-B56Z",
+        "FacilityNameAlias": [],
+        "FieldID": "Beryl",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 2,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:UK 110-02-06",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "UK 110-02-06",
+        "FacilityNameAlias": [],
+        "FieldID": "SOUTH MORECAMBE",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 3,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:GBR_9_13-B56Z",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "GBR/9/13-B56Z",
+        "FacilityNameAlias": [],
+        "FieldID": "BRAVO",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:FB51OH_B02",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "FB51OH/B02",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:21_10-F0 2",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "21/10-F0 2",
+        "FacilityNameAlias": [],
+        "FieldID": "Forties",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:GUAP1",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "GUAP1",
+        "FacilityNameAlias": [],
+        "FieldID": "Guillemot",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:49_22-5",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "49/22-5",
+        "FacilityNameAlias": [],
+        "FieldID": "EUROPA",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:48_22-1",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "48/22-1",
+        "FacilityNameAlias": [],
+        "FieldID": "Wildcat",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:49_17-15",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "49/17-15",
+        "FacilityNameAlias": [],
+        "FieldID": "VANTAGE",
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 2,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    },
+    {
+      "id": "welltegra:master-data--Well:FSS17OH_F02",
+      "kind": "osdu:wks:master-data--Well:1.0.0",
+      "data": {
+        "FacilityName": "FSS17OH/F02",
+        "FacilityNameAlias": [],
+        "FieldID": null,
+        "Source": "WellTegra Forensic Scan",
+        "SpatialLocation": {
+          "Wgs84Coordinates": null
+        },
+        "ExtensionProperties": {
+          "FileCount": 1,
+          "ScanDate": "2026-02-25T01:49:43.134001"
+        }
+      }
+    }
+  ]
+}

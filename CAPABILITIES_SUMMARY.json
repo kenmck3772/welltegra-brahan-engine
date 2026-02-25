@@ -1,0 +1,72 @@
+{
+  "generated": "2026-02-25T12:41:46.355286",
+  "capabilities": [
+    {
+      "name": "LAS File Scanner",
+      "status": "\u2705 WORKING",
+      "description": "Extracts well names, fields, companies from 134 LAS files",
+      "output": "24 wells identified"
+    },
+    {
+      "name": "Fraud Detection",
+      "status": "\u2705 WORKING",
+      "description": "Detects invalid UWI, missing coords, zero depths",
+      "output": "116 flags (6 CRITICAL)"
+    },
+    {
+      "name": "Ghost Fish Hunter",
+      "status": "\u2705 WORKING",
+      "description": "Finds stuck/lost equipment in wellbore",
+      "output": "18 ghost fish detected"
+    },
+    {
+      "name": "Corrosion Calculator",
+      "status": "\u2705 WORKING",
+      "description": "Extracts actual ID values, calculates metal loss",
+      "output": "corrosion_analysis_results.json"
+    },
+    {
+      "name": "GR Time-Lapse",
+      "status": "\u2705 WORKING",
+      "description": "Compares GR signatures between runs for green cement",
+      "output": "gr_timelapse_comparison.json"
+    },
+    {
+      "name": "CCL Depth Correlation",
+      "status": "\u2705 WORKING",
+      "description": "Finds collar peaks, detects depth shifts",
+      "output": "ccl_depth_correlation.json"
+    },
+    {
+      "name": "Serial Reconciliation",
+      "status": "\u2705 WORKING",
+      "description": "Tracks equipment serials, flags untraceable items",
+      "output": "serial_reconciliation.json"
+    },
+    {
+      "name": "Tubing Tally Framework",
+      "status": "\u2705 FRAMEWORK",
+      "description": "Identifies tally PDFs, template for manual entry",
+      "output": "tally_extraction.json"
+    },
+    {
+      "name": "Missing Data Detector",
+      "status": "\u2705 WORKING",
+      "description": "Finds documentation gaps (WOC, volumes, temps)",
+      "output": "documentation_gaps.json"
+    },
+    {
+      "name": "Master Scanner",
+      "status": "\u2705 WORKING",
+      "description": "One command runs all analyses",
+      "output": "scan_all.py"
+    }
+  ],
+  "statistics": {
+    "working": 9,
+    "framework": 1,
+    "json_outputs": 23,
+    "python_modules": 14,
+    "dashboards": 3
+  }
+}

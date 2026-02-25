@@ -1,0 +1,606 @@
+{
+  "pipe_data": [
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "specs": [
+        {
+          "type": "ID",
+          "value": 6.0,
+          "param": "CSID"
+        },
+        {
+          "type": "ID",
+          "value": 3.0,
+          "param": "GPIT_CABLE_CONFIDENCE_FACTOR"
+        },
+        {
+          "type": "ID",
+          "value": 22.0,
+          "param": "HID1"
+        },
+        {
+          "type": "ID",
+          "value": 2015.0,
+          "param": "HID2"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "MANL_GRID_CONV"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODD_SPRI"
+        },
+        {
+          "type": "OD",
+          "value": 3.0,
+          "param": "ODEN"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCB"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_LOCG"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDEC"
+        },
+        {
+          "type": "ID",
+          "value": 0.0,
+          "param": "OVERIDE_MAGDIP"
+        },
+        {
+          "type": "ID",
+          "value": 999.0,
+          "param": "PCIDDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PCODDRL"
+        },
+        {
+          "type": "OD",
+          "value": 999.0,
+          "param": "PLODDRL"
+        },
+        {
+          "type": "ID",
+          "value": 9.0,
+          "param": "UWID"
+        }
+      ]
+    }
+  ],
+  "mismatches": [
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "severity": "CRITICAL",
+      "type": "IMPOSSIBLE_GEOMETRY",
+      "message": "ID (6.0) >= OD (3.0) - Cannot exist"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "severity": "HIGH",
+      "type": "SPEC_MISMATCH",
+      "message": "ID 6.0in outside standard range (2.441-2.555) for 2-7/8 inch Tubing"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "locations": [
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "16_28-1_MUDLOG.las",
+      "well": "16/28- 1",
+      "field": "ANDREW",
+      "lat": 58.0,
+      "lon": 1.0,
+      "stated_lat": "deg      58",
+      "stated_lon": "deg      1"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723854.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "DEG     59\ufffd 36' 23\" N",
+      "stated_lon": "DEG     1\ufffd 30' 46"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "ENI_48_29-A1_DWL_WIRE_PPFG_POST.las",
+      "well": "48/29-A1",
+      "field": "HEWETT",
+      "lat": 53.01694444444444,
+      "lon": 1.794722222222222,
+      "stated_lat": "53 1'1\"",
+      "stated_lon": "1 47'41\""
+    },
+    {
+      "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+      "well": "16/28-1",
+      "field": "EXPLORATION",
+      "lat": 58.0,
+      "lon": 1.0,
+      "stated_lat": "58\ufffd02'52",
+      "stated_lon": "01\ufffd24'22"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "16_28-1_MUDLOG (3).las",
+      "well": "16/28- 1",
+      "field": "ANDREW",
+      "lat": 58.0,
+      "lon": 1.0,
+      "stated_lat": "deg      58",
+      "stated_lon": "deg      1"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723865.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "DEG     59\ufffd 36' 23\" N",
+      "stated_lon": "DEG     1\ufffd 30' 46"
+    },
+    {
+      "file": "3_30-_1_jwl_JWL_FILE_311422571.las",
+      "well": "3/30-1",
+      "field": "WILDCAT",
+      "lat": 60.06583333333333,
+      "lon": 1.8516666666666668,
+      "stated_lat": "60  3 57",
+      "stated_lon": "1 51  6"
+    },
+    {
+      "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+      "well": "UNKNOWN",
+      "field": "EXPLORATION",
+      "lat": 53.0,
+      "lon": 2.0,
+      "stated_lat": "53",
+      "stated_lon": "2"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723857.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "DEG     59\ufffd 36' 23\" N",
+      "stated_lon": "DEG     1\ufffd 30' 46"
+    },
+    {
+      "file": "3_30-_1_jwl_JWL_FILE_311422571 (3).las",
+      "well": "3/30-1",
+      "field": "WILDCAT",
+      "lat": 60.06583333333333,
+      "lon": 1.8516666666666668,
+      "stated_lat": "60  3 57",
+      "stated_lon": "1 51  6"
+    },
+    {
+      "file": "49_29b-_5_jwl_JWL_FILE_312260621.las",
+      "well": "49/29b-5",
+      "field": "WILDCAT",
+      "lat": 53.0,
+      "lon": 2.0,
+      "stated_lat": "53\ufffd01'46",
+      "stated_lon": "02\ufffd41'08"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59\ufffd 36' 37",
+      "stated_lon": "1\ufffd 30' 46"
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345112075.las",
+      "well": "UK 110-02-06",
+      "field": "SOUTH_MORECAMBE",
+      "lat": 53.896388888888886,
+      "lon": 3.635,
+      "stated_lat": "53 53' 47",
+      "stated_lon": "03 38' 6"
+    },
+    {
+      "file": "49_22-_5_jwl_JWL_FILE_311746980.las",
+      "well": "49/22-5",
+      "field": "WILDCAT",
+      "lat": 53.0,
+      "lon": 2.0,
+      "stated_lat": "53\ufffd13'20",
+      "stated_lon": "02\ufffd17'59"
+    },
+    {
+      "file": "GBR_9_13-B56Z_MUDLOG.las",
+      "well": "GBR_9/13-B56Z",
+      "field": "BRAVO",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "59",
+      "stated_lon": "1"
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345112613.las",
+      "well": "UK 110-02-06",
+      "field": "SOUTH_MORECAMBE",
+      "lat": 53.896388888888886,
+      "lon": 3.635,
+      "stated_lat": "53 53' 47",
+      "stated_lon": "03 38' 6"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723848.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "DEG     59\ufffd 36' 23\" N",
+      "stated_lon": "DEG     1\ufffd 30' 46"
+    },
+    {
+      "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+      "well": "16/28-1",
+      "field": "EXPLORATION",
+      "lat": 58.0,
+      "lon": 1.0,
+      "stated_lat": "58\ufffd02'52",
+      "stated_lon": "01\ufffd24'22"
+    },
+    {
+      "file": "110_02-_6_dwl_DWL_WIRE_345109498.las",
+      "well": "UK 110-02-06",
+      "field": "SOUTH_MORECAMBE",
+      "lat": 53.896388888888886,
+      "lon": 3.635,
+      "stated_lat": "53 53' 47",
+      "stated_lon": "03 38' 6"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_244723851.las",
+      "well": "9/13a-B56Z",
+      "field": "BERYL",
+      "lat": 59.0,
+      "lon": 1.0,
+      "stated_lat": "DEG     59\ufffd 36' 23\" N",
+      "stated_lon": "DEG     1\ufffd 30' 46"
+    },
+    {
+      "file": "48_22-_1_jwl_JWL_FILE_311744427.las",
+      "well": "48/22-1",
+      "field": "WILDCAT",
+      "lat": 53.25416666666667,
+      "lon": 1.3855555555555554,
+      "stated_lat": "53 15 15",
+      "stated_lon": "01 23 08"
+    },
+    {
+      "file": "49_17-_15_jwl_JWL_FILE_311746251.las",
+      "well": "49/17-15",
+      "field": "VANTAGE",
+      "lat": 53.42638888888889,
+      "lon": 2.3372222222222225,
+      "stated_lat": "53 25 35",
+      "stated_lon": "02 20 14"
+    },
+    {
+      "file": "49_17-_15_jwl_JWL_FILE_311746251 (3).las",
+      "well": "49/17-15",
+      "field": "VANTAGE",
+      "lat": 53.42638888888889,
+      "lon": 2.3372222222222225,
+      "stated_lat": "53 25 35",
+      "stated_lon": "02 20 14"
+    }
+  ],
+  "flags": [],
+  "field_references": {
+    "FORTIES": {
+      "lat": 57.5,
+      "lon": 0.8,
+      "basin": "Central North Sea"
+    },
+    "BERYL": {
+      "lat": 59.5,
+      "lon": 1.5,
+      "basin": "Northern North Sea"
+    },
+    "BRAVO": {
+      "lat": 59.5,
+      "lon": 1.5,
+      "basin": "Northern North Sea"
+    },
+    "GUILLEMOT": {
+      "lat": 57.0,
+      "lon": 0.5,
+      "basin": "Central North Sea"
+    },
+    "ANDREW_FIELD": {
+      "lat": 57.1,
+      "lon": 1.2,
+      "basin": "Central North Sea"
+    },
+    "TRISTAN": {
+      "lat": 56.5,
+      "lon": 2.5,
+      "basin": "Central North Sea"
+    },
+    "SOUTH MORECAMBE": {
+      "lat": 53.9,
+      "lon": -3.6,
+      "basin": "East Irish Sea"
+    },
+    "VANTAGE": {
+      "lat": 54.0,
+      "lon": 2.5,
+      "basin": "Southern North Sea"
+    },
+    "EUROPA": {
+      "lat": 54.5,
+      "lon": 0.5,
+      "basin": "Southern North Sea"
+    }
+  }
+}

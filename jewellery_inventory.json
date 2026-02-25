@@ -1,0 +1,578 @@
+{
+  "inventory": {
+    "CHOKE": {
+      "count": 24,
+      "items": [
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_14022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_03022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_01022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_17022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_04022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_11022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_12022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_06022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_24022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_16022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_10022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_07022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48-29_A1_DWL_MUD_Time_31012024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_18022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_23022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_08022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_21022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_15022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_25022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        },
+        {
+          "file": "ENI_48_29-A1_DWL_MUD_Time_09022024.las",
+          "well": "48/29-A1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "essure CHKP        .Psi                        :  Choke Pressure PITACTIVE   .bbl                   "
+        }
+      ]
+    },
+    "PACKER": {
+      "count": 23,
+      "items": [
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "16_28-1_MUDLOG.las",
+          "well": "16/28- 1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         MUDLOG               "
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+          "well": "16/28-1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "16_28-1_MUDLOG (3).las",
+          "well": "16/28- 1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         MUDLOG               "
+        },
+        {
+          "file": "3_30-_1_jwl_JWL_FILE_311422571.las",
+          "well": "3/30-1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+          "well": "49/22- 5",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": " PBWS.                       ALL:    PB WELL NAME SET BHT .                0.000 DEGF:    BH TEMP BL"
+        },
+        {
+          "file": "3_30-_1_jwl_JWL_FILE_311422571 (3).las",
+          "well": "3/30-1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "49_29b-_5_jwl_JWL_FILE_312260621.las",
+          "well": "49/29b-5",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "scosity PCIDDRL.IN      -999.25000               :Packer Inner Diameter - Zoned along driller depths"
+        },
+        {
+          "file": "110_02-_6_dwl_DWL_WIRE_345112075.las",
+          "well": "UK 110-02-06",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         FDC-CNL-GR_Run1      "
+        },
+        {
+          "file": "49_22-_5_jwl_JWL_FILE_311746980.las",
+          "well": "49/22-5",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "110_02-_6_dwl_DWL_WIRE_345112613.las",
+          "well": "UK 110-02-06",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         FDC-CNL-GR_Run3      "
+        },
+        {
+          "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+          "well": "16/28-1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "UKCS                                    : Project SET .          COMP WIRE                          "
+        },
+        {
+          "file": "110_02-_6_dwl_DWL_WIRE_345109498.las",
+          "well": "UK 110-02-06",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         BHC-GR_Run3          "
+        },
+        {
+          "file": "16_28-1_CORE (3).las",
+          "well": "16/28- 1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "_________________________________________________ SET                .         CORE                 "
+        },
+        {
+          "file": "48_22-_1_jwl_JWL_FILE_311744427.las",
+          "well": "48/22-1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "23 08.00 E                           : Longitude  SET .          COMP WIRE                          "
+        }
+      ]
+    },
+    "PLUG": {
+      "count": 8,
+      "items": [
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        },
+        {
+          "file": "16_28-1_MUDLOG.las",
+          "well": "16/28- 1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "                  :  WSTA               .         PLUGGED AND ABANDONED         :  TD               "
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        },
+        {
+          "file": "16_28-1_MUDLOG (3).las",
+          "well": "16/28- 1",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "N/A",
+          "context": "                  :  WSTA               .         PLUGGED AND ABANDONED         :  TD               "
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "Tool-string ran as per tool-sketch with Interwell plug assembly below SLB tools :Depth Remark 1 DEPR"
+        }
+      ]
+    },
+    "SEAL": {
+      "count": 6,
+      "items": [
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+          "well": "9/13a-B56Z",
+          "depth": "10650",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ine 3 R4   .        Logs correlated to Halliurton PBR  found at SLB depth of 10650ft :Remarks Line 4"
+        }
+      ]
+    },
+    "PERFORATION": {
+      "count": 9,
+      "items": [
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+          "well": "21/10-F2",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "AKER",
+          "context": "or  GR      .GAPI       30 310  1  1 : Gamma ray  PERF    .           99 995 99  1 : Perforation int"
+        },
+        {
+          "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+          "well": "9/13a-B56Z",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "SCHLUMBERGER",
+          "context": "ANG .                                   :Range REQPERFOINTRVL.F       -999.25000        :Requested P"
+        },
+        {
+          "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+          "well": "21/10-F2",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "AKER",
+          "context": "or  GR      .GAPI       30 310  1  1 : Gamma ray  PERF    .           99 995 99  1 : Perforation int"
+        },
+        {
+          "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+          "well": "21/10-F2",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "AKER",
+          "context": "or  GR      .GAPI       30 310  1  1 : Gamma ray  PERF    .           99 995 99  1 : Perforation int"
+        }
+      ]
+    },
+    "NIPPLE": {
+      "count": 1,
+      "items": [
+        {
+          "file": "21_10-F2_dwl_DWL_MWD_242014631.las",
+          "well": "21/10-F02",
+          "depth": "N/A",
+          "serial": "N/A",
+          "manufacturer": "AKER",
+          "context": "          :   6 Time Since Drilled (RPCHM) Memory NPLM.fraction                                :   7"
+        }
+      ]
+    },
+    "SSSV": {
+      "count": 0,
+      "items": []
+    },
+    "GLV": {
+      "count": 0,
+      "items": []
+    },
+    "XOVER": {
+      "count": 0,
+      "items": []
+    },
+    "MANDREL": {
+      "count": 0,
+      "items": []
+    },
+    "SCREEN": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "serial_numbers": [],
+  "pdf_equipment": {
+    "MANUFACTURER_DOCS": [
+      "HALLIBURTON: HalliburtoncompletionreportDTI21_25-G1GUILLEMOTAP1.pdf",
+      "NOV: 3.1.1.3.3.6.2DTI_21_25-G1GUA-P1PetroleumEngEOWR-Nov-1996.pdf"
+    ]
+  },
+  "summary": {
+    "total_equipment_mentions": 71,
+    "unique_serials": 0,
+    "wells_with_equipment": 13
+  }
+}

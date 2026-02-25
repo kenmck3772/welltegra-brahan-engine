@@ -1,0 +1,453 @@
+{
+  "tally_pdfs": [
+    "48-29-A1RECOMPLETIONREPORT.pdf",
+    "HalliburtoncompletionreportDTI21_25-G1GUILLEMOTAP1.pdf",
+    "48-29-A1CASINGTALLY4-12.pdf",
+    "Dataacquisitionreport-completiontestDTI21_25-G1GUILLEMOTAP1.pdf",
+    "48-29-A1CASINGTALLY7-58.pdf",
+    "000003351368265_48_29_A1_COMPL_EOJR_RECOMPLETION_REPORT.pdf",
+    "48-29-A1RECOMPLETIONDIAGRAM.pdf",
+    "21_10-B2_NS00006957_TUBINGGEOMETRYSONDE_Redacted.pdf",
+    "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0-1.pdf",
+    "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD-1.pdf",
+    "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD.pdf",
+    "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0.pdf",
+    "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD (4).pdf"
+  ],
+  "extracted_data": [
+    {
+      "file": "48-29-A1RECOMPLETIONREPORT.pdf",
+      "size_kb": 2596.94140625,
+      "data": {
+        "tubing_od": [
+          "78",
+          "7",
+          "5",
+          "2",
+          "4"
+        ],
+        "tubing_id": [
+          "0",
+          "50",
+          "5",
+          "7",
+          "2"
+        ],
+        "tubing_length": [
+          "\u0664",
+          "7",
+          "5",
+          "992",
+          "2"
+        ],
+        "depth": [
+          "410",
+          "992"
+        ],
+        "serial": [
+          "dobj\r1008",
+          "dobj\r1046",
+          "ngth 2542",
+          "dobj\r1101",
+          "dobj\r1154"
+        ]
+      }
+    },
+    {
+      "file": "HalliburtoncompletionreportDTI21_25-G1GUILLEMOTAP1.pdf",
+      "size_kb": 39958.029296875,
+      "data": {
+        "tubing_od": [
+          "\u0662",
+          "78",
+          "5",
+          "\u06f70",
+          "4"
+        ],
+        "tubing_id": [
+          "5.",
+          "5",
+          "4",
+          "65",
+          "46"
+        ],
+        "tubing_weight": [
+          "0",
+          "7",
+          "\u0667",
+          "2",
+          "8"
+        ],
+        "tubing_length": [
+          "0.",
+          "2.",
+          "5",
+          "95",
+          "4"
+        ],
+        "tubing_grade": [
+          "c-95"
+        ],
+        "depth": [
+          "767",
+          "354",
+          "611",
+          "4\u06f20"
+        ],
+        "serial": [
+          "dobj\r1008",
+          "Pg 1109",
+          "ngth 139868",
+          "nots 1050",
+          "dobj\r2026"
+        ]
+      }
+    },
+    {
+      "file": "48-29-A1CASINGTALLY4-12.pdf",
+      "size_kb": 658.2060546875,
+      "data": {
+        "tubing_od": [
+          "5",
+          "2",
+          "1",
+          "9",
+          "3"
+        ],
+        "tubing_id": [
+          "5",
+          "2",
+          "8"
+        ],
+        "tubing_length": [
+          "7",
+          "3",
+          "\u06f2"
+        ],
+        "serial": [
+          "ngth 1064",
+          "DF79012",
+          "Prev 673713",
+          "ngth 3191",
+          "ngth 1046"
+        ]
+      }
+    },
+    {
+      "file": "Dataacquisitionreport-completiontestDTI21_25-G1GUILLEMOTAP1.pdf",
+      "size_kb": 20015.7626953125,
+      "data": {
+        "tubing_od": [
+          "5",
+          "4",
+          "87",
+          "9",
+          "49"
+        ],
+        "tubing_id": [
+          "91",
+          "17",
+          "\u0668",
+          "0",
+          "1\u06f7"
+        ],
+        "tubing_length": [
+          "\u07c1",
+          "96",
+          "0",
+          "7",
+          "5"
+        ],
+        "depth": [
+          "4445"
+        ],
+        "serial": [
+          "ngth 1786",
+          "ight 2533",
+          "ngth 807172",
+          "ngth 12695",
+          "idth 4210"
+        ]
+      }
+    },
+    {
+      "file": "48-29-A1CASINGTALLY7-58.pdf",
+      "size_kb": 733.2265625,
+      "data": {
+        "tubing_od": [
+          "0",
+          "7",
+          "4",
+          "1",
+          "9"
+        ],
+        "tubing_id": [
+          "6",
+          "5",
+          "2"
+        ],
+        "tubing_length": [
+          "\u06f0",
+          "1",
+          "2",
+          "4"
+        ],
+        "serial": [
+          "DF79012",
+          "BE7998",
+          "ngth 3191",
+          "Prev 750534",
+          "idth 3024"
+        ]
+      }
+    },
+    {
+      "file": "000003351368265_48_29_A1_COMPL_EOJR_RECOMPLETION_REPORT.pdf",
+      "size_kb": 31082.15234375,
+      "data": {
+        "tubing_od": [
+          "78",
+          "5",
+          "4",
+          "37",
+          "10"
+        ],
+        "tubing_id": [
+          "5.",
+          "2.",
+          "5",
+          "\u06f86",
+          "4"
+        ],
+        "tubing_length": [
+          "5",
+          "4",
+          "45",
+          "41",
+          "10"
+        ],
+        "depth": [
+          "831"
+        ],
+        "serial": [
+          "FDXZ9313",
+          "ngth 4605",
+          "ngth 1117363",
+          "ngth 1204",
+          "gf4686"
+        ]
+      }
+    },
+    {
+      "file": "48-29-A1RECOMPLETIONDIAGRAM.pdf",
+      "size_kb": 377.998046875,
+      "data": {
+        "tubing_od": [
+          "9",
+          "1",
+          "2"
+        ],
+        "tubing_id": [
+          "1",
+          "3"
+        ],
+        "tubing_length": [
+          "4"
+        ],
+        "serial": [
+          "DF79012",
+          "bd7624332",
+          "ngth 374380",
+          "Prev 386780",
+          "bc-9397"
+        ]
+      }
+    },
+    {
+      "file": "21_10-B2_NS00006957_TUBINGGEOMETRYSONDE_Redacted.pdf",
+      "size_kb": 11673.7529296875,
+      "data": {
+        "tubing_od": [
+          "5",
+          "4",
+          "72",
+          "9",
+          "3"
+        ],
+        "tubing_id": [
+          "5",
+          "4",
+          "9.",
+          "05",
+          "29"
+        ],
+        "tubing_weight": [
+          "5",
+          "1",
+          "3"
+        ],
+        "tubing_length": [
+          "5",
+          "4",
+          "45",
+          "46",
+          "87"
+        ],
+        "serial": [
+          "idth 2603",
+          "ngth 5853",
+          "Ip22025062",
+          "Tei4110",
+          "ngth 7280"
+        ]
+      }
+    },
+    {
+      "file": "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0-1.pdf",
+      "size_kb": 2729.541015625,
+      "data": {
+        "tubing_od": [
+          "01",
+          "0",
+          "5",
+          "7",
+          "2"
+        ],
+        "tubing_id": [
+          "\u0664",
+          "50",
+          "0",
+          "7",
+          "5"
+        ],
+        "tubing_length": [
+          "8.",
+          "0",
+          "7",
+          "2",
+          "4"
+        ],
+        "tubing_grade": [
+          "C-90"
+        ],
+        "serial": [
+          "yD\u001d3323",
+          "ngth 5489",
+          "ngth 3293",
+          "ight 1058",
+          "tooo7777"
+        ]
+      }
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD-1.pdf",
+      "size_kb": 434.265625,
+      "data": {
+        "tubing_od": [
+          "9",
+          "5"
+        ],
+        "tubing_id": [
+          "5",
+          "2",
+          "8",
+          "6",
+          "9"
+        ],
+        "serial": [
+          "ngth 175992",
+          "ngth 2936",
+          "Jc8194",
+          "ngth 20535",
+          "ngth 19759"
+        ]
+      }
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD.pdf",
+      "size_kb": 434.265625,
+      "data": {
+        "tubing_od": [
+          "9",
+          "5"
+        ],
+        "tubing_id": [
+          "5",
+          "2",
+          "8",
+          "6",
+          "9"
+        ],
+        "serial": [
+          "ngth 175992",
+          "ngth 2936",
+          "Jc8194",
+          "ngth 20535",
+          "ngth 19759"
+        ]
+      }
+    },
+    {
+      "file": "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0.pdf",
+      "size_kb": 2729.541015625,
+      "data": {
+        "tubing_od": [
+          "01",
+          "0",
+          "5",
+          "7",
+          "2"
+        ],
+        "tubing_id": [
+          "\u0664",
+          "50",
+          "0",
+          "7",
+          "5"
+        ],
+        "tubing_length": [
+          "8.",
+          "0",
+          "7",
+          "2",
+          "4"
+        ],
+        "tubing_grade": [
+          "C-90"
+        ],
+        "serial": [
+          "yD\u001d3323",
+          "ngth 5489",
+          "ngth 3293",
+          "ight 1058",
+          "tooo7777"
+        ]
+      }
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD (4).pdf",
+      "size_kb": 434.265625,
+      "data": {
+        "tubing_od": [
+          "9",
+          "5"
+        ],
+        "tubing_id": [
+          "5",
+          "2",
+          "8",
+          "6",
+          "9"
+        ],
+        "serial": [
+          "ngth 175992",
+          "ngth 2936",
+          "Jc8194",
+          "ngth 20535",
+          "ngth 19759"
+        ]
+      }
+    }
+  ],
+  "requires_ocr": false
+}

@@ -1,0 +1,286 @@
+{
+  "21/10-F2": {
+    "score": 360,
+    "factors": [
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI"
+    ],
+    "category_scores": {}
+  },
+  "21/10-B02": {
+    "score": 90,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "48/29-A1": {
+    "score": 192,
+    "factors": [
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "21/25-G1 (GUAP1)": {
+    "score": 26,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "9/13a-B56Z": {
+    "score": 270,
+    "factors": [
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "INVALID_UWI",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "INVALID_UWI",
+      "GHOST_FISH",
+      "INVALID_UWI",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "INVALID_UWI",
+      "GHOST_FISH",
+      "INVALID_UWI",
+      "GHOST_FISH"
+    ],
+    "category_scores": {}
+  },
+  "UNKNOWN": {
+    "score": 48,
+    "factors": [
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "49/17-15 Vantage": {
+    "score": 72,
+    "factors": [
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "21/10-F02": {
+    "score": 288,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "009/13 -B56Z": {
+    "score": 8,
+    "factors": [
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "49/29b- 11": {
+    "score": 54,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "49/17- 15": {
+    "score": 18,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "GBR_21/10-F02": {
+    "score": 10,
+    "factors": [
+      "INVALID_UWI"
+    ],
+    "category_scores": {}
+  },
+  "9/13a-B56z": {
+    "score": 10,
+    "factors": [
+      "INVALID_UWI"
+    ],
+    "category_scores": {}
+  },
+  "9/13-B56Z": {
+    "score": 36,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS",
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "UK 110-02-06": {
+    "score": 30,
+    "factors": [
+      "INVALID_UWI",
+      "INVALID_UWI",
+      "INVALID_UWI"
+    ],
+    "category_scores": {}
+  },
+  "FB51OH_B02": {
+    "score": 8,
+    "factors": [
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "21/10-F0 2": {
+    "score": 18,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "GUAP1": {
+    "score": 18,
+    "factors": [
+      "INVALID_UWI",
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  },
+  "16/28- 1": {
+    "score": 20,
+    "factors": [
+      "INVALID_UWI",
+      "INVALID_UWI"
+    ],
+    "category_scores": {}
+  },
+  "FSS17OH_F02": {
+    "score": 8,
+    "factors": [
+      "MISSING_COORDS"
+    ],
+    "category_scores": {}
+  }
+}

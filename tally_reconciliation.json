@@ -1,0 +1,87 @@
+{
+  "well_depths": {
+    "49/29b- 11": [
+      {
+        "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+        "start_depth": 3400.0,
+        "stop_depth": 7857.0,
+        "total_depth": 4457.0
+      },
+      {
+        "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+        "start_depth": 7800.0,
+        "stop_depth": 10567.0,
+        "total_depth": 2767.0
+      },
+      {
+        "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+        "start_depth": 10700.0,
+        "stop_depth": 11514.0,
+        "total_depth": 814.0
+      }
+    ]
+  },
+  "discrepancies": [
+    {
+      "well": "49/29b- 11",
+      "file_count": 3,
+      "max_depth": 11514.0,
+      "min_depth": 7857.0,
+      "variance": 3657.0
+    }
+  ],
+  "schematic_files": [
+    {
+      "file": "48-29-A1RECOMPLETIONREPORT.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "HalliburtoncompletionreportDTI21_25-G1GUILLEMOTAP1.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "48-29-A1CASINGTALLY4-12.pdf",
+      "keyword": "tally"
+    },
+    {
+      "file": "Dataacquisitionreport-completiontestDTI21_25-G1GUILLEMOTAP1.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "48-29-A1CASINGTALLY7-58.pdf",
+      "keyword": "tally"
+    },
+    {
+      "file": "000003351368265_48_29_A1_COMPL_EOJR_RECOMPLETION_REPORT.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "48-29-A1RECOMPLETIONDIAGRAM.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "21_10-B2_NS00006957_TUBINGGEOMETRYSONDE_Redacted.pdf",
+      "keyword": "tubing"
+    },
+    {
+      "file": "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0-1.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD-1.pdf",
+      "keyword": "schematic"
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD.pdf",
+      "keyword": "schematic"
+    },
+    {
+      "file": "30-04-2019 Stella 306aB3Z - Approved Completion Program Rev0.pdf",
+      "keyword": "completion"
+    },
+    {
+      "file": "Stella 306a-B3 ST Completion Schematic 22-5-2019 RevD (4).pdf",
+      "keyword": "schematic"
+    }
+  ]
+}

@@ -1,0 +1,1906 @@
+{
+  "total_serials": 215,
+  "unique_serials": 56,
+  "serials_by_well": {
+    "21/10-F2": 56,
+    "9/13a-B56Z": 86,
+    "16/28- 1": 6,
+    "UNKNOWN": 31,
+    "16/28-1": 4,
+    "49/29b- 11": 11,
+    "49/17- 15": 9,
+    "3/30-1": 2,
+    "21/10-B02": 3,
+    "49/29b-5": 1,
+    "9/13-B56Z": 2,
+    "49/22-5": 1,
+    "48/22-1": 1,
+    "49/17-15": 2
+  },
+  "all_serials": [
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615192.las",
+      "equipment": []
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615192.las",
+      "equipment": []
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FR1209",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "GBR00001257",
+      "well": "16/28- 1",
+      "file": "16_28-1_MUDLOG.las",
+      "equipment": [
+        "PLUG"
+      ]
+    },
+    {
+      "serial": "CGG-2013",
+      "well": "16/28- 1",
+      "file": "16_28-1_MUDLOG.las",
+      "equipment": [
+        "PLUG"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "ID\t23585",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t3088",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4020",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t1865",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n3088",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991580.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_244723854.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615510.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615510.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "ID\t23557",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t1147",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4028",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t5763",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n1147",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991539.las",
+      "equipment": []
+    },
+    {
+      "serial": "MN-405926",
+      "well": "16/28-1",
+      "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+      "equipment": []
+    },
+    {
+      "serial": "JUN-1974",
+      "well": "16/28-1",
+      "file": "16_28-_1_jwl_JWL_FILE_312226487 (3).las",
+      "equipment": []
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FR1209",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FR1209",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "GBR00001257",
+      "well": "16/28- 1",
+      "file": "16_28-1_MUDLOG (3).las",
+      "equipment": [
+        "PLUG"
+      ]
+    },
+    {
+      "serial": "CGG-2013",
+      "well": "16/28- 1",
+      "file": "16_28-1_MUDLOG (3).las",
+      "equipment": [
+        "PLUG"
+      ]
+    },
+    {
+      "serial": "SK2103",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615225.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615225.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615222.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615222.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SK2103",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-2290",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-2410",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-6188",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-9466",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-6510",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-6680",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-7605",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-8160",
+      "well": "49/17- 15",
+      "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "DEC-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_244723865.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615210.las",
+      "equipment": []
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615210.las",
+      "equipment": []
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615465.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615465.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615186.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615186.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "AUG-1975",
+      "well": "3/30-1",
+      "file": "3_30-_1_jwl_JWL_FILE_311422571.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_244723857.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "AUG-1975",
+      "well": "3/30-1",
+      "file": "3_30-_1_jwl_JWL_FILE_311422571 (3).las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2007",
+      "well": "21/10-B02",
+      "file": "21_10-B2_dwl_DWL_WIRE_1984892.las",
+      "equipment": []
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615204.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615204.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615459.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615459.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615195.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615195.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615228.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615228.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "AUG-1987",
+      "well": "49/29b-5",
+      "file": "49_29b-_5_jwl_JWL_FILE_312260621.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2007",
+      "well": "21/10-B02",
+      "file": "21_10-B2_dwl_DWL_WIRE_1984893.las",
+      "equipment": []
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13-B56Z",
+      "file": "9_13a-B56Z_dwl__1633754.las",
+      "equipment": []
+    },
+    {
+      "serial": "ID\t23568",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t1149",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4027",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t5758",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n1149",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991575.las",
+      "equipment": []
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OF-10650",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "equipment": [
+        "PACKER",
+        "PLUG",
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "OCT-1988",
+      "well": "49/22-5",
+      "file": "49_22-_5_jwl_JWL_FILE_311746980.las",
+      "equipment": []
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "9/13-B56Z",
+      "file": "9_13a-B56Z_dwl__1633755.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_244723848.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SK2103",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "MN-405926",
+      "well": "16/28-1",
+      "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+      "equipment": []
+    },
+    {
+      "serial": "JUN-1974",
+      "well": "16/28-1",
+      "file": "16_28-_1_jwl_JWL_FILE_312226487.las",
+      "equipment": []
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615216.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615216.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SK2103",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-8836",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-10566",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-10512",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-10512",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-10550",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "FROM-10508",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "TO-10550",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "DATA\n10700",
+      "well": "49/29b- 11",
+      "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+      "equipment": [
+        "TUBING",
+        "CASING"
+      ]
+    },
+    {
+      "serial": "ID\t23554",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t1149",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4027",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t5758",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n1149",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991538.las",
+      "equipment": []
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615504.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615504.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "ID\t23574",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t3038",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4037",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t1998",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n3038",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991577.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2007",
+      "well": "21/10-B02",
+      "file": "21_10-B2_dwl_DWL_WIRE_1984891.las",
+      "equipment": []
+    },
+    {
+      "serial": "DEC-2015",
+      "well": "9/13a-B56Z",
+      "file": "9_13a-B56Z_dwl_244723851.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SCII\n2476",
+      "well": "16/28- 1",
+      "file": "16_28-1_CORE (3).las",
+      "equipment": []
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615219.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615219.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-1966",
+      "well": "48/22-1",
+      "file": "48_22-_1_jwl_JWL_FILE_311744427.las",
+      "equipment": []
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615513.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615513.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SCII\n2476",
+      "well": "16/28- 1",
+      "file": "16_28-1_CORE.las",
+      "equipment": []
+    },
+    {
+      "serial": "ID\t23579",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "TOP\t3088",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "BASE\t4020",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "MAX\t1228",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "INTS\t1865",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "ALUE\n3088",
+      "well": "UNKNOWN",
+      "file": "110_02-_6_jwl_JWL_FILE_1991578.las",
+      "equipment": []
+    },
+    {
+      "serial": "SEP-2008",
+      "well": "49/17-15",
+      "file": "49_17-_15_jwl_JWL_FILE_311746251.las",
+      "equipment": []
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615183.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615183.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615201.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615201.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615189.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615189.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615213.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_TEST_302615213.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "NOV-2014",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615462.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615462.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "JUL-2017",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615507.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SERIAL-NUMBER",
+      "well": "21/10-F2",
+      "file": "21_10-F2_dwl_DWL_OTHER_302615507.las",
+      "equipment": [
+        "CASING"
+      ]
+    },
+    {
+      "serial": "SEP-2008",
+      "well": "49/17-15",
+      "file": "49_17-_15_jwl_JWL_FILE_311746251 (3).las",
+      "equipment": []
+    }
+  ],
+  "equipment_without_serials": [
+    {
+      "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+      "well": "49/22- 5",
+      "equipment": "CASING"
+    }
+  ]
+}

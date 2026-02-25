@@ -1,0 +1,670 @@
+[
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615192.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_25-G1_dwl_DWL_TEST_54972515.las",
+    "well": "21/25-G1 (GUAP1)",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      730,
+      730,
+      100
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      680,
+      680,
+      100
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991754.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723854.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      10,
+      100
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      730,
+      730,
+      100
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615354.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_OTHER_7919715.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": [
+      90,
+      11,
+      11,
+      12
+    ]
+  },
+  {
+    "file": "ENI_48_29-A1_DWL_WIRE_PPFG_POST.las",
+    "well": "48/29-A1",
+    "temp_curves": [],
+    "temp_values": [
+      73
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      680,
+      680,
+      100
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      680,
+      680,
+      100
+    ]
+  },
+  {
+    "file": "9_13a-B56Z__JWL_FILE_265849470.las",
+    "well": "009/13 -B56Z",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991753.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991743.las",
+    "well": "49/29b- 11",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615225.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615222.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615399.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MWD_7919722.las",
+    "well": "49/17- 15",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": [
+      2290,
+      2410,
+      6188,
+      9466,
+      6510,
+      6680,
+      7605,
+      8160
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723865.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      100
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615210.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615186.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615372.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_log_LOG_WIRE_35925515.las",
+    "well": "9/13a-B56z",
+    "temp_curves": [],
+    "temp_values": [
+      13,
+      1000
+    ]
+  },
+  {
+    "file": "49_22-_5_jwl_JWL_FILE_1682253.las",
+    "well": "49/22- 5",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723857.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      100
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615204.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615195.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615228.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615405.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991756.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      20,
+      650,
+      730,
+      730,
+      100
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991750.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991752.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11
+    ]
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723848.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      8458,
+      100
+    ]
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991742.las",
+    "well": "49/29b- 11",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615216.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "49_29b-_11_dwl_DWL_MWD_1991744.las",
+    "well": "49/29b- 11",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": [
+      566,
+      512,
+      512,
+      550,
+      508,
+      550
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615375.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "9_13a-B56Z_dwl_244723851.las",
+    "well": "9/13a-B56Z",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      19,
+      2900,
+      100
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991755.las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615411.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615219.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615183.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615363.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_242014631.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615201.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615393.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615369.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615378.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2__JWL_FILE_265865183.las",
+    "well": "FSS17OH_F02",
+    "temp_curves": [
+      "TEMP"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615189.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615357.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615348.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_TEST_302615213.las",
+    "well": "21/10-F2",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": []
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615384.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615417.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_MWD_302615387.las",
+    "well": "21/10-F02",
+    "temp_curves": [
+      "TEMP",
+      "TEMPERATURE"
+    ],
+    "temp_values": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "49_17-_15_dwl_DWL_MUD_1991751 (3).las",
+    "well": "49/17-15 Vantage",
+    "temp_curves": [],
+    "temp_values": [
+      90,
+      11,
+      11
+    ]
+  }
+]

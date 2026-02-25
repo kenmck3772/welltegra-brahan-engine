@@ -1,0 +1,62 @@
+{
+  "scan_timestamp": "2026-02-25T01:46:42.596942",
+  "total_files": 134,
+  "unique_wells": 11,
+  "wells": {
+    "UNKNOWN": {
+      "field": "UNKNOWN",
+      "company": "N/A",
+      "file_count": 57
+    },
+    "21/10-B02": {
+      "field": "",
+      "company": "",
+      "file_count": 5
+    },
+    "48/29-A1": {
+      "field": "",
+      "company": "ENIUK",
+      "file_count": 24
+    },
+    "49/17-15 Vantage": {
+      "field": "49/17",
+      "company": "AGR Petroleum",
+      "file_count": 9
+    },
+    "21/10-F02": {
+      "field": "Forties",
+      "company": "Apache North Sea Limited",
+      "file_count": 16
+    },
+    "GBR_21/10-F02": {
+      "field": "Forties",
+      "company": "Apache North Sea Limited",
+      "file_count": 1
+    },
+    "9/13a-B56z": {
+      "field": "Beryl",
+      "company": "",
+      "file_count": 1
+    },
+    "9/13-B56Z": {
+      "field": "Beryl",
+      "company": "Mobil North Sea Ltd",
+      "file_count": 2
+    },
+    "GBR_9/13-B56Z": {
+      "field": "BRAVO",
+      "company": "",
+      "file_count": 1
+    },
+    "21/10-F0 2": {
+      "field": "Forties",
+      "company": "Apache North Sea Limited",
+      "file_count": 1
+    },
+    "GUAP1": {
+      "field": "Guillemot",
+      "company": "Shell",
+      "file_count": 1
+    }
+  }
+}

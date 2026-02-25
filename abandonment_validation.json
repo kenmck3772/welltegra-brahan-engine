@@ -1,0 +1,90 @@
+{
+  "abandonment_files": [
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "16_28-1_MUDLOG.las",
+      "well": "16/28- 1",
+      "source": "LAS"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "16_28-1_MUDLOG (3).las",
+      "well": "16/28- 1",
+      "source": "LAS"
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "source": "LAS"
+    },
+    {
+      "file": "49_29b-5AbandonmentProgrammeRev1.pdf",
+      "well": "49_29b-5AbandonmentProgrammeRev1.pdf",
+      "source": "PDF"
+    },
+    {
+      "file": "49_29b-11WellAbandonmentReport-Rev1.pdf",
+      "well": "49_29b-11WellAbandonmentReport-Rev1.pdf",
+      "source": "PDF"
+    },
+    {
+      "file": "WELLABANDONMENTDAILYOPERATIONSREPORT-BLANE30-3a-1.pdf",
+      "well": "UNKNOWN",
+      "source": "PDF"
+    },
+    {
+      "file": "Hewett4829A1WellAbandonmentProgramme17112023-signed_Redacted.pdf",
+      "well": "Hewett4829A1WellAbandonmentProgramme17112023-signed",
+      "source": "PDF"
+    },
+    {
+      "file": "21_25-G1AbandonmentDiagram.pdf",
+      "well": "21_25-G1AbandonmentDiagram.pdf",
+      "source": "PDF"
+    },
+    {
+      "file": "CDILEOWRBB9-13a-B80B56zSTAbandon2016.pdf",
+      "well": "UNKNOWN",
+      "source": "PDF"
+    },
+    {
+      "file": "AbandonmentDrillingProgrammeAOCGUA_P1ST_A1HRev.0.pdf",
+      "well": "AbandonmentDrillingProgrammeAOCGUA",
+      "source": "PDF"
+    },
+    {
+      "file": "49_29b-5AbandonmentProgrammeRev1 (4).pdf",
+      "well": "49_29b-5AbandonmentProgrammeRev1 (4).pdf",
+      "source": "PDF"
+    }
+  ],
+  "plug_data": [],
+  "regulatory_requirements": {
+    "surface_plug_min": 50,
+    "fluid_zone_plug": 200,
+    "reservoir_plug": 1000
+  }
+}

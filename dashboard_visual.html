@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WellTegra Forensic Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Arial, sans-serif; 
+            background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%); 
+            color: #e0e0e0; 
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px;
+            margin-bottom: 30px;
+            background: rgba(22, 33, 62, 0.8);
+            border-radius: 15px;
+            border: 1px solid rgba(0, 212, 255, 0.2);
+        }
+        .header h1 {
+            color: #00d4ff;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .header p { color: #888; font-size: 1.1em; }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: rgba(22, 33, 62, 0.9);
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            border: 1px solid rgba(0, 212, 255, 0.1);
+            transition: transform 0.3s;
+        }
+        .stat-card:hover { transform: translateY(-5px); }
+        .stat-value { font-size: 2.5em; font-weight: bold; color: #00d4ff; }
+        .stat-label { color: #888; margin-top: 10px; }
+        .stat-card.warning .stat-value { color: #ffd93d; }
+        .stat-card.success .stat-value { color: #4ecca3; }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .chart-card {
+            background: rgba(22, 33, 62, 0.9);
+            padding: 20px;
+            border-radius: 15px;
+            border: 1px solid rgba(0, 212, 255, 0.1);
+        }
+        .chart-card h3 { color: #00d4ff; margin-bottom: 15px; }
+        .chart-container { height: 250px; }
+        
+        .predicate-section {
+            background: rgba(22, 33, 62, 0.9);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+        .predicate-section h3 { color: #00d4ff; margin-bottom: 20px; }
+        .predicate-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 10px;
+        }
+        .predicate-item {
+            background: rgba(15, 52, 96, 0.5);
+            padding: 12px 15px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .predicate-name { font-size: 0.9em; }
+        .predicate-bar {
+            width: 80px;
+            height: 6px;
+            background: #333;
+            border-radius: 3px;
+            margin: 0 10px;
+        }
+        .predicate-bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #00d4ff, #4ecca3);
+            border-radius: 3px;
+        }
+        .predicate-rate { color: #888; font-size: 0.85em; min-width: 40px; text-align: right; }
+        
+        .table-section {
+            background: rgba(22, 33, 62, 0.9);
+            padding: 25px;
+            border-radius: 15px;
+            overflow-x: auto;
+        }
+        .table-section h3 { color: #00d4ff; margin-bottom: 20px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        th { background: rgba(0, 212, 255, 0.1); color: #00d4ff; }
+        tr:hover { background: rgba(0, 212, 255, 0.05); }
+        .badge { padding: 4px 10px; border-radius: 15px; font-size: 0.8em; }
+        .badge-good { background: rgba(78, 204, 163, 0.2); color: #4ecca3; }
+        .badge-warn { background: rgba(255, 217, 61, 0.2); color: #ffd93d; }
+        
+        .footer { text-align: center; padding: 20px; color: #666; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>WellTegra Forensic Engine</h1>
+        <p>Industrial P&A Digital Integrity Architecture v3.0</p>
+    </div>
+    
+    <div class="stats-grid">
+        <div class="stat-card success">
+            <div class="stat-value">134</div>
+            <div class="stat-label">LAS Files</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">24</div>
+            <div class="stat-label">Unique Wells</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">463</div>
+            <div class="stat-label">PDF Docs</div>
+        </div>
+        <div class="stat-card warning">
+            <div class="stat-value">6</div>
+            <div class="stat-label">Need Review</div>
+        </div>
+        <div class="stat-card success">
+            <div class="stat-value">134</div>
+            <div class="stat-label">Predicates</div>
+        </div>
+    </div>
+    
+    <div class="charts-grid">
+        <div class="chart-card">
+            <h3>Files by Well</h3>
+            <div class="chart-container"><canvas id="wellChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+            <h3>PDF Categories</h3>
+            <div class="chart-container"><canvas id="pdfChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+            <h3>Predicate Pass Rate</h3>
+            <div class="chart-container"><canvas id="predChart"></canvas></div>
+        </div>
+        <div class="chart-card">
+            <h3>Field Distribution</h3>
+            <div class="chart-container"><canvas id="fieldChart"></canvas></div>
+        </div>
+    </div>
+    
+    <div class="predicate-section">
+        <h3>500-Series Predicate Results</h3>
+        <div class="predicate-grid">
+            <div class="predicate-item">
+                <span class="predicate-name">[001] hasValidUWI</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 25%"></div></div>
+                <span class="predicate-rate">25%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[002] hasWellName</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 95%"></div></div>
+                <span class="predicate-rate">95%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[003] hasFieldName</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 69%"></div></div>
+                <span class="predicate-rate">69%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[004] hasCompany</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 86%"></div></div>
+                <span class="predicate-rate">86%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[005] hasLocation</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 60%"></div></div>
+                <span class="predicate-rate">60%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[101] hasValidDepthRange</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 2%"></div></div>
+                <span class="predicate-rate">2%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[102] hasValidNullValue</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 96%"></div></div>
+                <span class="predicate-rate">96%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[103] hasDepthUnits</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 96%"></div></div>
+                <span class="predicate-rate">96%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[201] hasContractor</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 56%"></div></div>
+                <span class="predicate-rate">56%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[202] hasCreateDate</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 82%"></div></div>
+                <span class="predicate-rate">82%</span>
+            </div>
+            <div class="predicate-item">
+                <span class="predicate-name">[203] hasCountry</span>
+                <div class="predicate-bar"><div class="predicate-bar-fill" style="width: 27%"></div></div>
+                <span class="predicate-rate">27%</span>
+            </div>
+        </div>
+    </div>
+    
+    <div class="table-section">
+        <h3>Well Inventory</h3>
+        <table>
+            <tr><th>Well Name</th><th>Field</th><th>Files</th><th>Status</th></tr>
+            <tr><td>21/10-F2</td><td>FORTIES</td><td>28</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>48/29-A1</td><td>UNKNOWN</td><td>25</td><td><span class="badge badge-warn">Review</span></td></tr>
+            <tr><td>21/10-F02</td><td>Forties</td><td>16</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>49/17-15 Vantage</td><td>49/17</td><td>9</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>UNKNOWN</td><td>UNKNOWN</td><td>7</td><td><span class="badge badge-warn">Review</span></td></tr>
+            <tr><td>21/10-B02</td><td>UNKNOWN</td><td>5</td><td><span class="badge badge-warn">Review</span></td></tr>
+            <tr><td>16/28- 1</td><td>Andrew_Field</td><td>4</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>49/29b- 11</td><td>Tristan</td><td>3</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>UK 110-02-06</td><td>SOUTH MORECAMBE</td><td>3</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>3/30-1</td><td>WILDCAT</td><td>2</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>9/13-B56Z</td><td>Beryl</td><td>2</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>49/17-15</td><td>VANTAGE</td><td>2</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>009/13 -B56Z</td><td>UNKNOWN</td><td>1</td><td><span class="badge badge-warn">Review</span></td></tr>
+            <tr><td>21/25-G1 (GUAP1)</td><td>GUILLEMOT</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>49/17- 15</td><td>Vantage</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>GBR/21/10-F02</td><td>Forties</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>9/13a-B56z</td><td>Beryl</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>GBR/9/13-B56Z</td><td>BRAVO</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>FB51OH/B02</td><td>UNKNOWN</td><td>1</td><td><span class="badge badge-warn">Review</span></td></tr>
+            <tr><td>21/10-F0 2</td><td>Forties</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>GUAP1</td><td>Guillemot</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>49/22-5</td><td>EUROPA</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>48/22-1</td><td>Wildcat</td><td>1</td><td><span class="badge badge-good">OK</span></td></tr>
+            <tr><td>FSS17OH/F02</td><td>UNKNOWN</td><td>1</td><td><span class="badge badge-warn">Review</span></td></tr>
+        </table>
+    </div>
+    
+    <div class="footer">
+        <p>WellTegra Forensic Engine v3.0 | OSDU Compliant | QNTWAC Governance</p>
+    </div>
+
+    <script>
+        Chart.defaults.color = '#888';
+        new Chart(document.getElementById('wellChart'), {
+            type: 'bar',
+            data: { labels: ['21/10-F2', '48/29-A1', '21/10-F02', '49/17-15', 'Other'], datasets: [{ data: [28, 25, 16, 9, 56], backgroundColor: ['#00d4ff', '#4ecca3', '#ffd93d', '#ff6b6b', '#666'] }] },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
+        });
+        new Chart(document.getElementById('pdfChart'), {
+            type: 'doughnut',
+            data: { labels: ['Log', 'Other', 'Drilling', 'Core', 'Pressure', 'Other'], datasets: [{ data: [114, 216, 58, 26, 23, 26], backgroundColor: ['#00d4ff', '#444', '#4ecca3', '#ffd93d', '#ff6b6b', '#666'] }] },
+            options: { responsive: true, maintainAspectRatio: false }
+        });
+        new Chart(document.getElementById('predChart'), {
+            type: 'bar',
+            data: { labels: ['Identity', 'Quality', 'Metadata'], datasets: [{ data: [75, 85, 60], backgroundColor: ['#4ecca3', '#00d4ff', '#ffd93d'] }] },
+            options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
+        });
+        new Chart(document.getElementById('fieldChart'), {
+            type: 'polarArea',
+            data: { labels: ['Forties', 'Beryl', 'Vantage', 'Other'], datasets: [{ data: [46, 4, 12, 72], backgroundColor: ['rgba(0,212,255,0.7)', 'rgba(78,204,163,0.7)', 'rgba(255,217,61,0.7)', 'rgba(100,100,100,0.5)'] }] },
+            options: { responsive: true, maintainAspectRatio: false }
+        });
+    </script>
+</body>
+</html>

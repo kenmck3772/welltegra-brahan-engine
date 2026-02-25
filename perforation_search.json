@@ -1,0 +1,89 @@
+{
+  "las_files": [
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183451.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183457.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183448.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183460.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183463.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+      "well": "21/10-F2",
+      "keywords": [
+        "PERF",
+        "PERFORAT"
+      ]
+    },
+    {
+      "file": "9_13a-B56Z_dwl_DWL_WIRE_313183454.las",
+      "well": "9/13a-B56Z",
+      "keywords": [
+        "PERF",
+        "PERFORAT",
+        "SHOTS",
+        "SPF"
+      ]
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+      "well": "21/10-F2",
+      "keywords": [
+        "PERF",
+        "PERFORAT"
+      ]
+    },
+    {
+      "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+      "well": "21/10-F2",
+      "keywords": [
+        "PERF",
+        "PERFORAT"
+      ]
+    }
+  ],
+  "pdf_files": []
+}

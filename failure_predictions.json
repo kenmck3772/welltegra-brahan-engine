@@ -1,0 +1,25 @@
+{
+  "9/13a-B56Z": {
+    "probability": 1.0,
+    "factors": [
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "GHOST_FISH",
+      "BARRIER_DEGRADATION",
+      "GHOST_FISH",
+      "GHOST_FISH"
+    ],
+    "risk_level": "CRITICAL"
+  }
+}

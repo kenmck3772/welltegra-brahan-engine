@@ -1,0 +1,15 @@
+{
+  "root_dir": "/home/brahan_welltegra",
+  "wellark_dir": "/home/brahan_welltegra/wellark-forensics/welltegra-brahan-engine-main",
+  "wellabuild_dir": "/home/brahan_welltegra/wellabuild/wellabuild",
+  "project_airtight_dir": "",
+  "temporal_window_days": 365,
+  "predicate_threshold": 0.8,
+  "spatial_tolerance": 0.001,
+  "output_dir": "brahan_engine_data/output",
+  "export_osdu": false,
+  "generate_visualization": true,
+  "enable_audit": true,
+  "audit_signature": true,
+  "retention_days": 90
+}

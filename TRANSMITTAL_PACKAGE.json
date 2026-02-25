@@ -1,0 +1,73 @@
+{
+  "transmittal_id": "WELLTEGRA-20260225024843",
+  "generated": "2026-02-25T02:48:43.391606",
+  "data_inventory": {
+    "las_files": 134,
+    "pdf_documents": 463,
+    "tiff_images": 761,
+    "total_assets": 1358
+  },
+  "well_analysis": {
+    "unique_wells": 24,
+    "wells_with_coordinates": 28,
+    "wells_missing_coordinates": 58,
+    "top_wells": [
+      "21/10-F2 (Forties)",
+      "48/29-A1 (Hewett)",
+      "21/10-F02 (Forties)"
+    ]
+  },
+  "fraud_detection": {
+    "files_flagged": 116,
+    "critical_flags": 6,
+    "high_flags": 101,
+    "medium_flags": 124,
+    "types": {
+      "identity_fraud": 101,
+      "location_obscuration": 105,
+      "operator_obscuration": 19,
+      "physics_violation": 6
+    }
+  },
+  "predicate_analysis": {
+    "predicates_run": 10,
+    "series_covered": [
+      "001-100 Identity",
+      "101-200 Data Quality",
+      "201-300 Metadata"
+    ]
+  },
+  "location_verification": {
+    "wells_verified": 28,
+    "location_discrepancies": 0,
+    "missing_coordinates": 58
+  },
+  "pipe_specification": {
+    "eowr_files_analyzed": 4,
+    "specs_extracted": "Partial (PDF tables require manual extraction)"
+  },
+  "critical_findings": [
+    "6 CRITICAL physics violations in Well 110-02-06 (zero depths)",
+    "101 files with invalid UWI (identity fraud risk)",
+    "58 wells missing coordinates (location cannot be verified)",
+    "Well naming inconsistencies detected (same well, different names)"
+  ],
+  "recommendations": [
+    "Investigate Well 110-02-06 for data integrity issues",
+    "Cross-reference all wells with NDR database",
+    "Extract pipe specs manually from EOWR tubing tallies",
+    "Verify well coordinates against platform/template positions",
+    "Standardize well naming convention"
+  ],
+  "files_generated": [
+    "well_inventory_corrected.json",
+    "fraud_detection_report.json",
+    "predicate_results.json",
+    "pipe_spec_analysis.json",
+    "well_locations.json",
+    "tally_reconciliation.json",
+    "dashboard_visual.html",
+    "TRANSMITTAL_PACKAGE.json",
+    "EXECUTIVE_SUMMARY.txt"
+  ]
+}

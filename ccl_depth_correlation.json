@@ -1,0 +1,1306 @@
+[
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615480.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "CCL",
+    "peak_count": 126,
+    "avg_joint_length": 0.9,
+    "peaks": [
+      {
+        "depth": 3968.625,
+        "amplitude": 57.91918
+      },
+      {
+        "depth": 3969.5,
+        "amplitude": 57.42074
+      },
+      {
+        "depth": 3970.25,
+        "amplitude": 57.77364
+      },
+      {
+        "depth": 3971.125,
+        "amplitude": 57.59497
+      },
+      {
+        "depth": 3972.25,
+        "amplitude": 57.48059
+      },
+      {
+        "depth": 3973.5,
+        "amplitude": 57.71222
+      },
+      {
+        "depth": 3973.875,
+        "amplitude": 57.6208
+      },
+      {
+        "depth": 3975.625,
+        "amplitude": 57.68467
+      },
+      {
+        "depth": 3976.625,
+        "amplitude": 57.74492
+      },
+      {
+        "depth": 3978.125,
+        "amplitude": 57.748
+      },
+      {
+        "depth": 3978.875,
+        "amplitude": 57.73725
+      },
+      {
+        "depth": 3980.375,
+        "amplitude": 57.68164
+      },
+      {
+        "depth": 3981.125,
+        "amplitude": 57.71093
+      },
+      {
+        "depth": 3981.75,
+        "amplitude": 57.83962
+      },
+      {
+        "depth": 3983.0,
+        "amplitude": 57.82144
+      },
+      {
+        "depth": 3983.625,
+        "amplitude": 57.77715
+      },
+      {
+        "depth": 3985.0,
+        "amplitude": 57.84981
+      },
+      {
+        "depth": 3985.5,
+        "amplitude": 57.57442
+      },
+      {
+        "depth": 3986.25,
+        "amplitude": 57.55457
+      },
+      {
+        "depth": 3987.25,
+        "amplitude": 57.99232
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615510.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 16,
+    "avg_joint_length": 1.1,
+    "peaks": [
+      {
+        "depth": 4044.15,
+        "amplitude": 27.184
+      },
+      {
+        "depth": 4045.157,
+        "amplitude": 28.682
+      },
+      {
+        "depth": 4045.974,
+        "amplitude": 25.822
+      },
+      {
+        "depth": 4047.361,
+        "amplitude": 31.351
+      },
+      {
+        "depth": 4048.501,
+        "amplitude": 51.929
+      },
+      {
+        "depth": 4049.812,
+        "amplitude": 23.567
+      },
+      {
+        "depth": 4050.401,
+        "amplitude": 24.153
+      },
+      {
+        "depth": 4051.028,
+        "amplitude": 28.572
+      },
+      {
+        "depth": 4051.94,
+        "amplitude": 29.65
+      },
+      {
+        "depth": 4052.548,
+        "amplitude": 30.006
+      },
+      {
+        "depth": 4053.384,
+        "amplitude": 60.32
+      },
+      {
+        "depth": 4056.272,
+        "amplitude": 64.086
+      },
+      {
+        "depth": 4057.051,
+        "amplitude": 51.285
+      },
+      {
+        "depth": 4058.571,
+        "amplitude": 63.671
+      },
+      {
+        "depth": 4059.179,
+        "amplitude": 66.982
+      },
+      {
+        "depth": 4060.015,
+        "amplitude": 67.903
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615471.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 104,
+    "avg_joint_length": 1.0,
+    "peaks": [
+      {
+        "depth": 3944.375,
+        "amplitude": 65.15275
+      },
+      {
+        "depth": 3945.0,
+        "amplitude": 73.01878
+      },
+      {
+        "depth": 3945.625,
+        "amplitude": 80.89875
+      },
+      {
+        "depth": 3947.25,
+        "amplitude": 75.44826
+      },
+      {
+        "depth": 3947.75,
+        "amplitude": 76.2837
+      },
+      {
+        "depth": 3948.5,
+        "amplitude": 74.48199
+      },
+      {
+        "depth": 3949.25,
+        "amplitude": 65.42196
+      },
+      {
+        "depth": 3950.875,
+        "amplitude": 79.46697
+      },
+      {
+        "depth": 3951.5,
+        "amplitude": 73.9241
+      },
+      {
+        "depth": 3952.25,
+        "amplitude": 79.25453
+      },
+      {
+        "depth": 3953.5,
+        "amplitude": 68.2633
+      },
+      {
+        "depth": 3954.25,
+        "amplitude": 67.62608
+      },
+      {
+        "depth": 3954.875,
+        "amplitude": 66.39184
+      },
+      {
+        "depth": 3955.75,
+        "amplitude": 550.52228
+      },
+      {
+        "depth": 3956.625,
+        "amplitude": 67.12594
+      },
+      {
+        "depth": 3957.5,
+        "amplitude": 65.55221
+      },
+      {
+        "depth": 3958.375,
+        "amplitude": 73.32402
+      },
+      {
+        "depth": 3959.0,
+        "amplitude": 66.87461
+      },
+      {
+        "depth": 3959.875,
+        "amplitude": 66.07294
+      },
+      {
+        "depth": 3961.5,
+        "amplitude": 72.92064
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615483.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "CCL",
+    "peak_count": 130,
+    "avg_joint_length": 0.9,
+    "peaks": [
+      {
+        "depth": 3813.125,
+        "amplitude": 56.77035
+      },
+      {
+        "depth": 3814.125,
+        "amplitude": 56.58984
+      },
+      {
+        "depth": 3814.625,
+        "amplitude": 56.63551
+      },
+      {
+        "depth": 3815.375,
+        "amplitude": 56.61387
+      },
+      {
+        "depth": 3816.125,
+        "amplitude": 56.82744
+      },
+      {
+        "depth": 3817.25,
+        "amplitude": 56.65474
+      },
+      {
+        "depth": 3818.0,
+        "amplitude": 56.88804
+      },
+      {
+        "depth": 3818.5,
+        "amplitude": 56.70534
+      },
+      {
+        "depth": 3819.0,
+        "amplitude": 56.66544
+      },
+      {
+        "depth": 3820.375,
+        "amplitude": 56.82643
+      },
+      {
+        "depth": 3821.375,
+        "amplitude": 56.63181
+      },
+      {
+        "depth": 3822.5,
+        "amplitude": 56.51903
+      },
+      {
+        "depth": 3823.0,
+        "amplitude": 56.54595
+      },
+      {
+        "depth": 3823.875,
+        "amplitude": 56.68996
+      },
+      {
+        "depth": 3824.625,
+        "amplitude": 56.79068
+      },
+      {
+        "depth": 3825.25,
+        "amplitude": 56.70896
+      },
+      {
+        "depth": 3826.0,
+        "amplitude": 56.69816
+      },
+      {
+        "depth": 3827.25,
+        "amplitude": 56.60788
+      },
+      {
+        "depth": 3827.625,
+        "amplitude": 56.5923
+      },
+      {
+        "depth": 3828.375,
+        "amplitude": 56.66449
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615465.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 58,
+    "avg_joint_length": 1.2,
+    "peaks": [
+      {
+        "depth": 3993.0,
+        "amplitude": 58.68103
+      },
+      {
+        "depth": 3993.5,
+        "amplitude": 46.93653
+      },
+      {
+        "depth": 3994.125,
+        "amplitude": 55.64996
+      },
+      {
+        "depth": 3996.625,
+        "amplitude": 51.3293
+      },
+      {
+        "depth": 3997.5,
+        "amplitude": 51.4647
+      },
+      {
+        "depth": 3998.5,
+        "amplitude": 58.24519
+      },
+      {
+        "depth": 3999.625,
+        "amplitude": 59.00328
+      },
+      {
+        "depth": 4001.25,
+        "amplitude": 48.57245
+      },
+      {
+        "depth": 4002.75,
+        "amplitude": 43.71049
+      },
+      {
+        "depth": 4003.375,
+        "amplitude": 46.05882
+      },
+      {
+        "depth": 4004.625,
+        "amplitude": 35.54218
+      },
+      {
+        "depth": 4006.375,
+        "amplitude": 56.91145
+      },
+      {
+        "depth": 4007.125,
+        "amplitude": 51.28591
+      },
+      {
+        "depth": 4008.25,
+        "amplitude": 62.87317
+      },
+      {
+        "depth": 4009.125,
+        "amplitude": 52.59805
+      },
+      {
+        "depth": 4009.875,
+        "amplitude": 48.62133
+      },
+      {
+        "depth": 4011.0,
+        "amplitude": 51.02769
+      },
+      {
+        "depth": 4013.0,
+        "amplitude": 69.74372
+      },
+      {
+        "depth": 4014.0,
+        "amplitude": 77.93107
+      },
+      {
+        "depth": 4014.5,
+        "amplitude": 74.36191
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "9_13a-B56Z_log_LOG_WIRE_35925515.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "CCLC",
+    "peak_count": 135,
+    "avg_joint_length": -3.4,
+    "peaks": [
+      {
+        "depth": 12309.5,
+        "amplitude": 109.0667
+      },
+      {
+        "depth": 12306.5,
+        "amplitude": 93.2
+      },
+      {
+        "depth": 12303.0,
+        "amplitude": 169.4667
+      },
+      {
+        "depth": 12302.0,
+        "amplitude": 169.3333
+      },
+      {
+        "depth": 12296.5,
+        "amplitude": 100.7333
+      },
+      {
+        "depth": 12294.0,
+        "amplitude": 104.4
+      },
+      {
+        "depth": 12293.0,
+        "amplitude": 104.9333
+      },
+      {
+        "depth": 12290.0,
+        "amplitude": 131.6
+      },
+      {
+        "depth": 12288.5,
+        "amplitude": 125.8
+      },
+      {
+        "depth": 12287.0,
+        "amplitude": 119.1333
+      },
+      {
+        "depth": 12283.5,
+        "amplitude": 106.7333
+      },
+      {
+        "depth": 12282.0,
+        "amplitude": 107.8667
+      },
+      {
+        "depth": 12280.5,
+        "amplitude": 105.1667
+      },
+      {
+        "depth": 12279.5,
+        "amplitude": 105.3667
+      },
+      {
+        "depth": 12277.5,
+        "amplitude": 111.1333
+      },
+      {
+        "depth": 12276.0,
+        "amplitude": 113.8667
+      },
+      {
+        "depth": 12272.0,
+        "amplitude": 160.9333
+      },
+      {
+        "depth": 12267.0,
+        "amplitude": 177.9333
+      },
+      {
+        "depth": 12260.0,
+        "amplitude": 114.9333
+      },
+      {
+        "depth": 12258.5,
+        "amplitude": 115.7333
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615459.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 104,
+    "avg_joint_length": 1.2,
+    "peaks": [
+      {
+        "depth": 3949.875,
+        "amplitude": 64.10243
+      },
+      {
+        "depth": 3950.875,
+        "amplitude": 77.22488
+      },
+      {
+        "depth": 3952.0,
+        "amplitude": 76.94145
+      },
+      {
+        "depth": 3952.625,
+        "amplitude": 74.66369
+      },
+      {
+        "depth": 3953.25,
+        "amplitude": 75.82574
+      },
+      {
+        "depth": 3954.25,
+        "amplitude": 61.56384
+      },
+      {
+        "depth": 3955.25,
+        "amplitude": 78.3616
+      },
+      {
+        "depth": 3955.75,
+        "amplitude": 74.61705
+      },
+      {
+        "depth": 3956.5,
+        "amplitude": 380.08841
+      },
+      {
+        "depth": 3957.375,
+        "amplitude": 73.90866
+      },
+      {
+        "depth": 3958.25,
+        "amplitude": 75.34963
+      },
+      {
+        "depth": 3959.25,
+        "amplitude": 73.07346
+      },
+      {
+        "depth": 3960.375,
+        "amplitude": 78.76284
+      },
+      {
+        "depth": 3961.0,
+        "amplitude": 56.00006
+      },
+      {
+        "depth": 3961.75,
+        "amplitude": 57.98926
+      },
+      {
+        "depth": 3962.375,
+        "amplitude": 67.1004
+      },
+      {
+        "depth": 3963.375,
+        "amplitude": 79.6543
+      },
+      {
+        "depth": 3964.375,
+        "amplitude": 87.90431
+      },
+      {
+        "depth": 3965.5,
+        "amplitude": 69.51013
+      },
+      {
+        "depth": 3966.75,
+        "amplitude": 64.40184
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615468.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 87,
+    "avg_joint_length": 1.0,
+    "peaks": [
+      {
+        "depth": 3974.875,
+        "amplitude": 65.49159
+      },
+      {
+        "depth": 3976.75,
+        "amplitude": 61.44896
+      },
+      {
+        "depth": 3977.125,
+        "amplitude": 61.95877
+      },
+      {
+        "depth": 3977.75,
+        "amplitude": 63.94619
+      },
+      {
+        "depth": 3978.25,
+        "amplitude": 59.83825
+      },
+      {
+        "depth": 3979.25,
+        "amplitude": 58.37803
+      },
+      {
+        "depth": 3980.125,
+        "amplitude": 50.53942
+      },
+      {
+        "depth": 3980.75,
+        "amplitude": 52.56839
+      },
+      {
+        "depth": 3982.0,
+        "amplitude": 49.64335
+      },
+      {
+        "depth": 3983.125,
+        "amplitude": 41.1461
+      },
+      {
+        "depth": 3984.0,
+        "amplitude": 58.7482
+      },
+      {
+        "depth": 3985.125,
+        "amplitude": 55.86876
+      },
+      {
+        "depth": 3985.625,
+        "amplitude": 56.91911
+      },
+      {
+        "depth": 3987.0,
+        "amplitude": 26.8518
+      },
+      {
+        "depth": 3987.5,
+        "amplitude": 25.72703
+      },
+      {
+        "depth": 3988.75,
+        "amplitude": 51.50599
+      },
+      {
+        "depth": 3989.375,
+        "amplitude": 48.4193
+      },
+      {
+        "depth": 3990.0,
+        "amplitude": 49.5909
+      },
+      {
+        "depth": 3991.125,
+        "amplitude": 43.20192
+      },
+      {
+        "depth": 3992.75,
+        "amplitude": 59.00035
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615504.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 15,
+    "avg_joint_length": 1.2,
+    "peaks": [
+      {
+        "depth": 4039.837,
+        "amplitude": 21.033
+      },
+      {
+        "depth": 4040.882,
+        "amplitude": 20.259
+      },
+      {
+        "depth": 4041.87,
+        "amplitude": 24.052
+      },
+      {
+        "depth": 4042.174,
+        "amplitude": 24.088
+      },
+      {
+        "depth": 4042.858,
+        "amplitude": 21.077
+      },
+      {
+        "depth": 4044.226,
+        "amplitude": 25.695
+      },
+      {
+        "depth": 4045.157,
+        "amplitude": 27.646
+      },
+      {
+        "depth": 4046.297,
+        "amplitude": 24.434
+      },
+      {
+        "depth": 4048.501,
+        "amplitude": 57.661
+      },
+      {
+        "depth": 4049.66,
+        "amplitude": 26.803
+      },
+      {
+        "depth": 4050.097,
+        "amplitude": 26.309
+      },
+      {
+        "depth": 4050.648,
+        "amplitude": 26.703
+      },
+      {
+        "depth": 4051.18,
+        "amplitude": 27.251
+      },
+      {
+        "depth": 4053.536,
+        "amplitude": 62.617
+      },
+      {
+        "depth": 4056.291,
+        "amplitude": 66.766
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615513.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 16,
+    "avg_joint_length": 1.1,
+    "peaks": [
+      {
+        "depth": 4047.323,
+        "amplitude": 26.063
+      },
+      {
+        "depth": 4048.482,
+        "amplitude": 49.87
+      },
+      {
+        "depth": 4049.546,
+        "amplitude": 22.621
+      },
+      {
+        "depth": 4049.907,
+        "amplitude": 22.021
+      },
+      {
+        "depth": 4051.294,
+        "amplitude": 30.858
+      },
+      {
+        "depth": 4052.282,
+        "amplitude": 34.009
+      },
+      {
+        "depth": 4053.346,
+        "amplitude": 60.409
+      },
+      {
+        "depth": 4056.082,
+        "amplitude": 59.371
+      },
+      {
+        "depth": 4057.298,
+        "amplitude": 47.737
+      },
+      {
+        "depth": 4058.381,
+        "amplitude": 60.378
+      },
+      {
+        "depth": 4059.749,
+        "amplitude": 74.22
+      },
+      {
+        "depth": 4060.737,
+        "amplitude": 57.875
+      },
+      {
+        "depth": 4061.668,
+        "amplitude": 53.771
+      },
+      {
+        "depth": 4062.181,
+        "amplitude": 54.953
+      },
+      {
+        "depth": 4063.549,
+        "amplitude": 67.856
+      },
+      {
+        "depth": 4064.252,
+        "amplitude": 60.358
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615477.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "CCL",
+    "peak_count": 122,
+    "avg_joint_length": 0.9,
+    "peaks": [
+      {
+        "depth": 3814.875,
+        "amplitude": 56.97239
+      },
+      {
+        "depth": 3815.75,
+        "amplitude": 57.09576
+      },
+      {
+        "depth": 3817.0,
+        "amplitude": 57.08748
+      },
+      {
+        "depth": 3817.75,
+        "amplitude": 57.01336
+      },
+      {
+        "depth": 3818.375,
+        "amplitude": 56.9492
+      },
+      {
+        "depth": 3818.875,
+        "amplitude": 56.88673
+      },
+      {
+        "depth": 3819.625,
+        "amplitude": 57.12864
+      },
+      {
+        "depth": 3820.5,
+        "amplitude": 57.22824
+      },
+      {
+        "depth": 3821.5,
+        "amplitude": 57.43462
+      },
+      {
+        "depth": 3822.375,
+        "amplitude": 57.29866
+      },
+      {
+        "depth": 3823.5,
+        "amplitude": 57.09114
+      },
+      {
+        "depth": 3825.125,
+        "amplitude": 57.25571
+      },
+      {
+        "depth": 3826.125,
+        "amplitude": 57.44691
+      },
+      {
+        "depth": 3827.25,
+        "amplitude": 57.21181
+      },
+      {
+        "depth": 3828.125,
+        "amplitude": 57.93476
+      },
+      {
+        "depth": 3828.625,
+        "amplitude": 57.46053
+      },
+      {
+        "depth": 3829.125,
+        "amplitude": 57.63989
+      },
+      {
+        "depth": 3830.875,
+        "amplitude": 57.45158
+      },
+      {
+        "depth": 3831.75,
+        "amplitude": 57.24238
+      },
+      {
+        "depth": 3833.25,
+        "amplitude": 57.176
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615486.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "CCL",
+    "peak_count": 114,
+    "avg_joint_length": 1.0,
+    "peaks": [
+      {
+        "depth": 3993.875,
+        "amplitude": 56.75604
+      },
+      {
+        "depth": 3994.25,
+        "amplitude": 56.72317
+      },
+      {
+        "depth": 3994.875,
+        "amplitude": 56.70355
+      },
+      {
+        "depth": 3995.625,
+        "amplitude": 56.60682
+      },
+      {
+        "depth": 3996.0,
+        "amplitude": 56.61952
+      },
+      {
+        "depth": 3998.0,
+        "amplitude": 57.21358
+      },
+      {
+        "depth": 3999.625,
+        "amplitude": 56.76066
+      },
+      {
+        "depth": 4000.75,
+        "amplitude": 56.81351
+      },
+      {
+        "depth": 4001.125,
+        "amplitude": 56.82175
+      },
+      {
+        "depth": 4001.875,
+        "amplitude": 56.69375
+      },
+      {
+        "depth": 4003.25,
+        "amplitude": 56.75789
+      },
+      {
+        "depth": 4004.125,
+        "amplitude": 57.26042
+      },
+      {
+        "depth": 4005.125,
+        "amplitude": 56.66708
+      },
+      {
+        "depth": 4006.375,
+        "amplitude": 57.04059
+      },
+      {
+        "depth": 4007.5,
+        "amplitude": 56.54088
+      },
+      {
+        "depth": 4008.25,
+        "amplitude": 56.63625
+      },
+      {
+        "depth": 4008.875,
+        "amplitude": 56.60443
+      },
+      {
+        "depth": 4009.5,
+        "amplitude": 56.79108
+      },
+      {
+        "depth": 4011.375,
+        "amplitude": 56.98703
+      },
+      {
+        "depth": 4012.5,
+        "amplitude": 56.79849
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615474.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 69,
+    "avg_joint_length": 1.0,
+    "peaks": [
+      {
+        "depth": 4045.5,
+        "amplitude": 24.55081
+      },
+      {
+        "depth": 4046.0,
+        "amplitude": 24.96245
+      },
+      {
+        "depth": 4046.625,
+        "amplitude": 26.51643
+      },
+      {
+        "depth": 4047.5,
+        "amplitude": 63.58959
+      },
+      {
+        "depth": 4048.625,
+        "amplitude": 31.38934
+      },
+      {
+        "depth": 4049.875,
+        "amplitude": 36.77426
+      },
+      {
+        "depth": 4051.25,
+        "amplitude": 40.34428
+      },
+      {
+        "depth": 4052.375,
+        "amplitude": 52.23034
+      },
+      {
+        "depth": 4052.875,
+        "amplitude": 52.8721
+      },
+      {
+        "depth": 4054.875,
+        "amplitude": 63.79325
+      },
+      {
+        "depth": 4055.625,
+        "amplitude": 71.73592
+      },
+      {
+        "depth": 4056.25,
+        "amplitude": 54.93995
+      },
+      {
+        "depth": 4057.625,
+        "amplitude": 55.10619
+      },
+      {
+        "depth": 4058.75,
+        "amplitude": 73.49966
+      },
+      {
+        "depth": 4059.625,
+        "amplitude": 70.7086
+      },
+      {
+        "depth": 4060.875,
+        "amplitude": 52.42833
+      },
+      {
+        "depth": 4061.75,
+        "amplitude": 61.43802
+      },
+      {
+        "depth": 4062.375,
+        "amplitude": 69.22309
+      },
+      {
+        "depth": 4062.875,
+        "amplitude": 71.90314
+      },
+      {
+        "depth": 4063.875,
+        "amplitude": 60.67598
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615462.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 108,
+    "avg_joint_length": 1.0,
+    "peaks": [
+      {
+        "depth": 3943.75,
+        "amplitude": 65.31283
+      },
+      {
+        "depth": 3944.625,
+        "amplitude": 80.79496
+      },
+      {
+        "depth": 3946.125,
+        "amplitude": 73.36428
+      },
+      {
+        "depth": 3946.625,
+        "amplitude": 72.28213
+      },
+      {
+        "depth": 3947.25,
+        "amplitude": 76.36517
+      },
+      {
+        "depth": 3948.25,
+        "amplitude": 71.58796
+      },
+      {
+        "depth": 3948.875,
+        "amplitude": 72.86441
+      },
+      {
+        "depth": 3949.875,
+        "amplitude": 72.08394
+      },
+      {
+        "depth": 3950.625,
+        "amplitude": 71.77721
+      },
+      {
+        "depth": 3951.375,
+        "amplitude": 69.75028
+      },
+      {
+        "depth": 3952.0,
+        "amplitude": 76.21526
+      },
+      {
+        "depth": 3952.375,
+        "amplitude": 75.33318
+      },
+      {
+        "depth": 3952.875,
+        "amplitude": 74.18279
+      },
+      {
+        "depth": 3953.75,
+        "amplitude": 74.03685
+      },
+      {
+        "depth": 3954.75,
+        "amplitude": 75.89359
+      },
+      {
+        "depth": 3955.375,
+        "amplitude": 76.71393
+      },
+      {
+        "depth": 3955.75,
+        "amplitude": 74.22556
+      },
+      {
+        "depth": 3956.625,
+        "amplitude": 547.05219
+      },
+      {
+        "depth": 3957.875,
+        "amplitude": 69.02493
+      },
+      {
+        "depth": 3958.875,
+        "amplitude": 73.30914
+      }
+    ],
+    "depth_range": 0
+  },
+  {
+    "file": "21_10-F2_dwl_DWL_OTHER_302615507.las",
+    "well": "",
+    "start_depth": 0,
+    "stop_depth": 0,
+    "curve": "ACCL",
+    "peak_count": 14,
+    "avg_joint_length": 1.3,
+    "peaks": [
+      {
+        "depth": 4046.126,
+        "amplitude": 23.591
+      },
+      {
+        "depth": 4047.285,
+        "amplitude": 23.072
+      },
+      {
+        "depth": 4048.577,
+        "amplitude": 58.487
+      },
+      {
+        "depth": 4049.945,
+        "amplitude": 28.385
+      },
+      {
+        "depth": 4050.705,
+        "amplitude": 27.815
+      },
+      {
+        "depth": 4051.712,
+        "amplitude": 26.46
+      },
+      {
+        "depth": 4053.232,
+        "amplitude": 50.56
+      },
+      {
+        "depth": 4055.664,
+        "amplitude": 64.645
+      },
+      {
+        "depth": 4058.172,
+        "amplitude": 67.972
+      },
+      {
+        "depth": 4059.331,
+        "amplitude": 72.488
+      },
+      {
+        "depth": 4060.015,
+        "amplitude": 61.231
+      },
+      {
+        "depth": 4061.535,
+        "amplitude": 46.257
+      },
+      {
+        "depth": 4062.219,
+        "amplitude": 53.748
+      },
+      {
+        "depth": 4063.359,
+        "amplitude": 62.542
+      }
+    ],
+    "depth_range": 0
+  }
+]
