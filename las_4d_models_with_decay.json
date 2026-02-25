@@ -1,0 +1,93 @@
+{
+  "generated": "2026-02-25T16:51:31.608820",
+  "wells_scanned": 27,
+  "models_built": 5,
+  "decay_model": {
+    "objectId": "9/13a-B56Z-CSG",
+    "corrosionModel": {
+      "initialWall": 0.47,
+      "currentWall": 0.38,
+      "environment": "SWEET_PRODUCTION",
+      "materialGrade": "L-80",
+      "integrityAssessment": {
+        "initial_wall": 0.47,
+        "current_wall": 0.38,
+        "wall_loss_pct": 19.1,
+        "remaining_life_years": 18.4,
+        "status": "MODERATE",
+        "recommended_action": "Monitor closely, plan intervention"
+      }
+    },
+    "decayHistory": [
+      {
+        "timestamp": "2000-06-01",
+        "type": "CORROSION_MEASUREMENT",
+        "wallThickness": 0.45,
+        "notes": "10-year inspection"
+      },
+      {
+        "timestamp": "2010-06-01",
+        "type": "CORROSION_MEASUREMENT",
+        "wallThickness": 0.42,
+        "notes": "20-year inspection"
+      },
+      {
+        "timestamp": "2020-06-01",
+        "type": "CORROSION_MEASUREMENT",
+        "wallThickness": 0.38,
+        "notes": "30-year inspection"
+      }
+    ]
+  },
+  "decay_timeline": [
+    {
+      "timestamp": "1990-01-01T00:00:00Z",
+      "years_elapsed": -0.4,
+      "predicted_wall_thickness": 0.47,
+      "wall_loss_pct": 0.0,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2000-01-01T00:00:00Z",
+      "years_elapsed": 9.6,
+      "predicted_wall_thickness": 0.395,
+      "wall_loss_pct": 16.1,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2010-01-01T00:00:00Z",
+      "years_elapsed": 19.6,
+      "predicted_wall_thickness": 0.316,
+      "wall_loss_pct": 32.8,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2020-01-01T00:00:00Z",
+      "years_elapsed": 29.6,
+      "predicted_wall_thickness": 0.237,
+      "wall_loss_pct": 49.6,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2030-01-01T00:00:00Z",
+      "years_elapsed": 39.6,
+      "predicted_wall_thickness": 0.158,
+      "wall_loss_pct": 66.3,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2040-01-01T00:00:00Z",
+      "years_elapsed": 49.6,
+      "predicted_wall_thickness": 0.08,
+      "wall_loss_pct": 83.1,
+      "remaining_life_years": 18.4
+    },
+    {
+      "timestamp": "2050-01-01T00:00:00Z",
+      "years_elapsed": 59.6,
+      "predicted_wall_thickness": 0.001,
+      "wall_loss_pct": 99.8,
+      "remaining_life_years": 18.4
+    }
+  ]
+}

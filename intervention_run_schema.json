@@ -1,0 +1,329 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://welltegra.io/schemas/intervention-run-record",
+  "title": "Intervention Run Record",
+  "description": "Complete record of a single well intervention operation",
+  "type": "object",
+  "required": ["run_id", "well_id", "operation_type"],
+  
+  "properties": {
+    "run_id": {
+      "type": "string",
+      "description": "Unique identifier for this run"
+    },
+    "well_id": {
+      "type": "string",
+      "description": "Well identifier"
+    },
+    "uwi": {
+      "type": "string",
+      "description": "Unique Well Identifier"
+    },
+    "operation_type": {
+      "type": "string",
+      "enum": ["WIRELINE", "SLICKLINE", "E-LINE", "COILED_TUBING", "DRILLING", "WORKOVER", "ABANDONMENT", "WELL_TEST", "CEMENTING"]
+    },
+    "date_start": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "date_end": {
+      "type": "string",
+      "format": "date-time"
+    },
+    
+    "service_companies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "role": {"type": "string"},
+          "crew_ids": {
+            "type": "array",
+            "items": {"type": "string"}
+          }
+        }
+      }
+    },
+    
+    "contractors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "role": {"type": "string"}
+        }
+      }
+    },
+    
+    "intervention_equipment": {
+      "type": "object",
+      "properties": {
+        "wireline_units": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "unit_id": {"type": "string"},
+              "company": {"type": "string"},
+              "location_on_rig": {"type": "string"},
+              "arrival_condition": {"type": "string"}
+            }
+          }
+        },
+        "pressure_control_equipment": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "stack_id": {"type": "string"},
+              "rating": {"type": "string"},
+              "company": {"type": "string"},
+              "function_test_status": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    
+    "rig_up_constraints": {
+      "type": "object",
+      "properties": {
+        "space_constraints": {"type": "string"},
+        "access_constraints": {"type": "string"},
+        "layout_notes": {"type": "string"}
+      }
+    },
+    
+    "barriers_prior_to_rigup": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "barrier_id": {"type": "string"},
+          "barrier_type": {"type": "string"},
+          "description": {"type": "string"},
+          "status": {"type": "string"},
+          "last_test_time": {"type": "string"}
+        }
+      }
+    },
+    
+    "double_block_practice": {
+      "type": "object",
+      "properties": {
+        "in_use": {"type": "boolean"},
+        "type": {
+          "type": "string",
+          "enum": ["SINGLE_BLOCK", "DOUBLE_BLOCK", "DOUBLE_BLOCK_AND_BLEED", "CONSTANT_BLEED"]
+        },
+        "notes": {"type": "string"}
+      }
+    },
+    
+    "downtime_events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["duration_minutes", "failure_cause_category"],
+        "properties": {
+          "event_id": {"type": "string"},
+          "timestamp_start": {"type": "string"},
+          "timestamp_end": {"type": "string"},
+          "duration_minutes": {"type": "number"},
+          "linked_equipment_id": {"type": "string"},
+          "linked_company": {"type": "string"},
+          "failure_cause_category": {
+            "type": "string",
+            "enum": [
+              "HUMAN_ERROR",
+              "EQUIPMENT_FAILURE", 
+              "LOGISTICS",
+              "NON_COMPLIANT_ON_ARRIVAL",
+              "PLANNING_OR_PROCEDURE",
+              "WEATHER",
+              "PLATFORM_ISSUE"
+            ]
+          },
+          "description": {"type": "string"},
+          "equipment_serial": {"type": "string"},
+          "vessel_manifest_ref": {"type": "string"}
+        }
+      }
+    },
+    
+    "safety_and_compliance": {
+      "type": "object",
+      "properties": {
+        "arrival_safety_checks": {
+          "type": "object",
+          "properties": {
+            "visual_inspection_completed": {"type": "boolean"},
+            "certificates_verified": {"type": "boolean"},
+            "pressure_test_cert_in_date": {"type": "boolean"},
+            "hoses_and_connections_ok": {"type": "boolean"},
+            "arrival_non_conformances": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "item": {"type": "string"},
+                  "description": {"type": "string"},
+                  "severity": {"type": "string"},
+                  "action_taken": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        
+        "documentation_compliance": {
+          "type": "object",
+          "properties": {
+            "coshh_available_for_fluids": {"type": "boolean"},
+            "sypol_assessments_available": {"type": "boolean"},
+            "sops_available_for_all_tools": {"type": "boolean"}
+          }
+        },
+        
+        "personnel_competence": {
+          "type": "object",
+          "properties": {
+            "key_roles": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": {"type": "string"},
+                  "company": {"type": "string"},
+                  "role": {"type": "string"},
+                  "competence_verified": {"type": "boolean"},
+                  "competence_ref": {"type": "string"}
+                }
+              }
+            },
+            "contracting_model": {
+              "type": "object",
+              "properties": {
+                "engagement_type": {
+                  "type": "string",
+                  "enum": ["OPERATOR_CONTRACT", "MULTI_SKILLED_CONTRACT", "AD_HOC", "AGENCY"]
+                },
+                "is_multi_skilled_contract": {"type": "boolean"},
+                "crew_composition": {
+                  "type": "object",
+                  "properties": {
+                    "planned_crew_size": {"type": "integer"},
+                    "actual_crew_size": {"type": "integer"},
+                    "under_manned": {"type": "boolean"}
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+        "bop_testing": {
+          "type": "object",
+          "properties": {
+            "bop_present": {"type": "boolean"},
+            "test_runs": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "date": {"type": "string"},
+                  "bop_stack_id": {"type": "string"},
+                  "test_type": {"type": "string"},
+                  "test_pressure_bar": {"type": "number"},
+                  "test_duration_min": {"type": "number"},
+                  "result": {"type": "string"},
+                  "timings": {
+                    "type": "object",
+                    "properties": {
+                      "annular_close_sec": {"type": "number"},
+                      "upper_ram_close_sec": {"type": "number"},
+                      "lower_ram_close_sec": {"type": "number"}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+        "simops": {
+          "type": "object",
+          "properties": {
+            "simops_active": {"type": "boolean"},
+            "simops_operations": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "operation_id": {"type": "string"},
+                  "description": {"type": "string"},
+                  "discipline": {"type": "string"},
+                  "location": {"type": "string"}
+                }
+              }
+            },
+            "simops_conflicts": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "conflict_id": {"type": "string"},
+                  "conflict_type": {"type": "string"},
+                  "description": {"type": "string"},
+                  "mitigations": {
+                    "type": "array",
+                    "items": {"type": "string"}
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+        "incidents_and_investigations": {
+          "type": "object",
+          "properties": {
+            "incidents": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "incident_id": {"type": "string"},
+                  "datetime": {"type": "string"},
+                  "severity": {
+                    "type": "string",
+                    "enum": ["MINOR", "SERIOUS", "MAJOR"]
+                  },
+                  "description": {"type": "string"},
+                  "job_stopped": {"type": "boolean"},
+                  "investigation_initiated": {"type": "boolean"},
+                  "root_cause_summary": {"type": "string"}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    
+    "forensic_flags": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flag_type": {"type": "string"},
+          "severity": {"type": "string"},
+          "description": {"type": "string"}
+        }
+      }
+    }
+  }
+}

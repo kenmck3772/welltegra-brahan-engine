@@ -1,0 +1,103 @@
+{
+  "run_id": "INT-2026-STELLA-001",
+  "well_id": "Stella_3_30",
+  "uwi": "UKCS-03-30-STELLA-001",
+  "operation_type": "WIRELINE",
+  "date_start": "2026-03-01T06:00:00Z",
+  "date_end": "2026-03-01T20:00:00Z",
+  
+  "service_companies": [
+    {
+      "name": "WirelineCo A",
+      "role": "WIRELINE_SERVICE",
+      "crew_ids": ["WL-SUP-01", "WL-OP-01"]
+    }
+  ],
+  
+  "intervention_equipment": {
+    "wireline_units": [
+      {
+        "unit_id": "WL-UNIT-07",
+        "company": "WirelineCo A",
+        "location_on_rig": "Wellbay Slot A",
+        "arrival_condition": "MINOR_DEFECTS_REPAIRED_ONBOARD"
+      }
+    ],
+    "pressure_control_equipment": [
+      {
+        "stack_id": "PCE-STACK-01",
+        "rating": "10k psi",
+        "company": "WirelineCo A",
+        "function_test_status": "PASS_AFTER_RETEST"
+      }
+    ]
+  },
+  
+  "rig_up_constraints": {
+    "space_constraints": "Limited deck space near eline unit",
+    "access_constraints": "Restricted access to ice box",
+    "layout_notes": "Concurrent CT equipment caused congestion"
+  },
+  
+  "double_block_practice": {
+    "in_use": true,
+    "type": "DOUBLE_BLOCK_AND_BLEED",
+    "notes": "Constant bleed maintained when open to atmosphere"
+  },
+  
+  "downtime_events": [
+    {
+      "event_id": "DT-001",
+      "timestamp_start": "2026-03-01T16:00:00Z",
+      "timestamp_end": "2026-03-01T18:00:00Z",
+      "duration_minutes": 120,
+      "linked_equipment_id": "PCE-STACK-01",
+      "linked_company": "WirelineCo A",
+      "failure_cause_category": "EQUIPMENT_FAILURE",
+      "description": "PCE leak on first test; required re-greasing and retest",
+      "equipment_serial": "PCE-STACK-01-2019-777"
+    }
+  ],
+  
+  "safety_and_compliance": {
+    "arrival_safety_checks": {
+      "visual_inspection_completed": true,
+      "certificates_verified": true,
+      "pressure_test_cert_in_date": true
+    },
+    "personnel_competence": {
+      "contracting_model": {
+        "engagement_type": "MULTI_SKILLED_CONTRACT",
+        "crew_composition": {
+          "planned_crew_size": 8,
+          "actual_crew_size": 6,
+          "under_manned": true
+        }
+      }
+    },
+    "bop_testing": {
+      "bop_present": true,
+      "test_runs": [
+        {
+          "date": "2026-03-01",
+          "test_type": "PRESSURE_AND_FUNCTION",
+          "test_pressure_bar": 500,
+          "result": "PASS",
+          "timings": {
+            "annular_close_sec": 12,
+            "upper_ram_close_sec": 8,
+            "lower_ram_close_sec": 7
+          }
+        }
+      ]
+    }
+  },
+  
+  "forensic_flags": [
+    {
+      "flag_type": "GHOST_IRON",
+      "severity": "MEDIUM",
+      "description": "Potential equipment left in hole from previous intervention"
+    }
+  ]
+}

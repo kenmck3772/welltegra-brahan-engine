@@ -1,0 +1,10 @@
+{
+  "initial_wall_inches": 0.47,
+  "install_year": 1990,
+  "environment": "SWEET_PRODUCTION",
+  "corrosion_rate_mm_per_year": 0.2,
+  "current_wall_2024": 0.202,
+  "predicted_failure_year": 2020,
+  "remaining_life_years": 12.8,
+  "status": "CRITICAL"
+}
