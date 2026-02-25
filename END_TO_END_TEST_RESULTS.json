@@ -1,0 +1,59 @@
+{
+  "inventory": {
+    "las": 134,
+    "pdf": 463,
+    "tiff": 755,
+    "total": 1352
+  },
+  "las_parsing": {
+    "files_parsed": 50,
+    "wells_found": 31
+  },
+  "risk_scoring": {
+    "total_wells": 20,
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "ghost_fish": {
+    "files_scanned": 272,
+    "ghost_iron_found": 1
+  },
+  "4d_model": {
+    "objects": 6,
+    "spine_points": 13,
+    "has_geometry": true,
+    "has_relationships": true,
+    "has_lifecycle": true
+  },
+  "decay_model": {
+    "initial_wall_inches": 0.47,
+    "install_year": 1990,
+    "environment": "SWEET_PRODUCTION",
+    "corrosion_rate_mm_per_year": 0.2,
+    "current_wall_2024": 0.202,
+    "predicted_failure_year": 2020,
+    "remaining_life_years": 12.8,
+    "status": "CRITICAL"
+  },
+  "downtime_scorecard": {
+    "error": "[Errno 2] No such file or directory: 'downtime_scorecard.json'"
+  },
+  "schema": {
+    "schema_exists": true,
+    "example_exists": true
+  },
+  "api": {
+    "ready": true
+  },
+  "modules": {
+    "total": 32
+  },
+  "summary": {
+    "timestamp": "2026-02-25T17:01:03.103287",
+    "elapsed_seconds": 2.1,
+    "tests_passed": 9,
+    "tests_total": 10
+  }
+}
